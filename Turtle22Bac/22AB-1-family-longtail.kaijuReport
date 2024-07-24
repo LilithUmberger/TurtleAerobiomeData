@@ -1,1017 +1,843 @@
 file	percent	reads	taxon_id	taxon_name
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	9.680853	76486	1268	Micrococcaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	5.979685	47244	85018	Dermatophilaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	5.780337	45669	85030	Geodermatophilaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	5.319495	42028	85015	Nocardioidaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	4.348954	34360	31957	Propionibacteriaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	2.812391	22220	2070	Pseudonocardiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	2.604183	20575	85023	Microbacteriaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	2.481663	19607	433	Acetobacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	2.449768	19355	85021	Intrasporangiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	2.218144	17525	119045	Methylobacteriaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	2.010315	15883	1853232	Hymenobacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	1.935006	15288	41297	Sphingomonadaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	1.902098	15028	1653	Corynebacteriaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	1.732367	13687	28056	Micromonosporaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	1.663640	13144	2062	Streptomycetaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	1.587191	12540	563835	Chitinophagaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	1.282536	10133	75682	Oxalobacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	1.244945	9836	1762	Mycobacteriaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	1.238110	9782	145357	Dermacoccaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	1.176217	9293	85020	Dermabacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.919153	7262	204434	Acidobacteriaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.900294	7113	320599	Solirubrobacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.837768	6619	83778	Kineosporiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.836883	6612	28556	Pleosporaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.738031	5831	543	Enterobacteriaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.713477	5637	85025	Nocardiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.625131	4939	41294	Bradyrhizobiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.519571	4105	2004	Streptosporangiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.494004	3903	2726069	Kribbellaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.480587	3797	85019	Brevibacteriaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.419454	3314	85016	Cellulomonadaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.407556	3220	84566	Sphingobacteriaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.405911	3207	668547	Teratosphaeriaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.399076	3153	80864	Comamonadaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.372749	2945	135621	Pseudomonadaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.366927	2899	85029	Dietziaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.352625	2786	219687	Gemmatimonadaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.349081	2758	85031	Nakamurellaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.324526	2564	84997	Rubrobacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.307945	2433	2805590	Ornithinimicrobiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.305794	2416	2805426	Kytococcaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.303136	2395	1570301	Saccotheciaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.298326	2357	5408	Filobasidiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.293137	2316	2012	Thermomonosporaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.276303	2183	320583	Conexibacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.268456	2121	468	Moraxellaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.239851	1895	119060	Burkholderiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.221245	1748	76892	Caulobacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.205803	1626	183710	Deinococcaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.201500	1592	1763524	Isosphaeraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.196057	1549	90964	Staphylococcaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.195678	1546	74712	Frankiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.187830	1484	89373	Cytophagaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.181755	1436	43219	Herpotrichiellaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.178211	1408	82115	Rhizobiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.165301	1306	186818	Planococcaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.164415	1299	85026	Gordoniaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.160111	1265	186817	Bacillaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.159858	1263	335929	Erythrobacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.157453	1244	1903414	Morganellaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.156188	1234	1433378	Motilibacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.155681	1230	69277	Phyllobacteriaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.152770	1207	83676	Nocardiopsaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.146315	1156	85017	Promicromonosporaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.141252	1116	32033	Xanthomonadaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.138468	1094	2049	Actinomycetaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.135936	1074	2896860	Spirosomaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.134291	1061	1217100	Jiangellaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.131380	1038	93133	Mycosphaerellaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.131380	1038	2854170	Roseobacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.130747	1033	49546	Flavobacteriaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.113280	895	31989	Rhodobacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.111382	880	81852	Enterococcaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.105939	837	2820280	Sphingosinicellaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.098978	782	31	Myxococcaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.098092	775	1033997	Nitrososphaeraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.095054	751	5020	Phaeosphaeriaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.093535	739	2829815	Azospirillaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.090118	712	186822	Paenibacillaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.086321	682	2831106	Devosiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.085561	676	506	Alcaligenaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.085561	676	145358	Bogoriellaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.082271	650	2762318	Weeksellaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.080372	635	361606	Patulibacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.078853	623	39	Archangiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.078094	617	1131492	Aspergillaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.076195	602	2805416	Jatrophihabitantaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.075942	600	45401	Hyphomicrobiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.074550	589	558415	Marinilabiliaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.074423	588	2600303	Baekduiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.073917	584	1903410	Pectobacteriaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.072651	574	641	Vibrionaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.072272	571	633392	Iamiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.071512	565	41295	Rhodospirillaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.065057	514	34374	Leptosphaeriaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.063538	502	815	Bacteroidaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.062146	491	622454	Cryptosporangiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.061260	484	2805400	Actinopolymorphaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.060627	479	1914233	Gemmataceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.057969	458	2066434	Geminicoccaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.057589	455	28256	Halomonadaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.056577	447	2448023	Ilumatobacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.051261	405	1331736	Ruaniaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.050122	396	45404	Beijerinckiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.049869	394	84994	Acidimicrobiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.048223	381	1300	Streptococcaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.048223	381	335928	Xanthobacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.046704	369	2831100	Boseaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.046578	368	33958	Lactobacillaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.046451	367	221678	Didymosphaeriaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.046198	365	683158	Didymellaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.045945	363	255475	Aurantimonadaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.045565	360	809	Chlamydiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.045565	360	452563	Cladosporiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.045186	357	2689614	Steroidobacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.044806	354	126	Planctomycetaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.044300	350	1892252	Microcoleaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.043160	341	31979	Clostridiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.042781	338	85034	Glycomycetaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.037971	300	775	Rickettsiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.037465	296	84642	Aeromonadaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.036705	290	2844375	Reyranellaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.036452	288	221670	Cucurbitariaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.035187	278	548648	Dothidotthiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.034933	276	49	Polyangiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.034807	275	1111112	Sympoventuriaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.034427	272	1775411	Rhodanobacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.034301	271	2008795	Azonexaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.033035	261	1042322	Demequinaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.031896	252	1812776	Sporocadaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.031643	250	2793121	Vallicoccaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.031389	248	1508536	Kallotenuaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.030883	244	110618	Nectriaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.030630	242	85033	Sporichthyaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.030377	240	1154585	Gaiellaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.029744	235	85028	Tsukamurellaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.029617	234	2691357	Pirellulaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.029491	233	563798	Cyclobacteriaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.029364	232	1771355	Tepidisphaeraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.027719	219	414713	Actinospicaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.027466	217	189779	Nitrospiraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.026959	213	145360	Sanguibacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.026200	207	125316	Beutenbergiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.025947	205	320796	Thermoleophilaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.025187	199	2109261	Abitibacteriaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.024808	196	712	Pasteurellaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.024428	193	31993	Methylocystaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.023542	186	2137278	Salinarimonadaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.022783	180	1162	Nostocaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.022656	179	290882	Massarinaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.022530	178	2792775	Alsobacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.022403	177	221669	Diademaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.021897	173	2048906	Pyrinomonadaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.021770	172	1890438	Leptolyngbyaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.021644	171	1884633	Cryptococcaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.021517	170	414877	Catenulisporaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.021264	168	40995	Elsinoaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.021264	168	2507902	Trebouxiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.020758	164	186820	Listeriaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.020378	161	31953	Bifidobacteriaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.020378	161	203557	Verrucomicrobiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.020251	160	2036754	Chelatococcaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.019872	157	206379	Nitrosomonadaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.019618	155	1055686	Sandaracinaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.019365	153	4777	Peronosporaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.019239	152	45147	Lophiostomataceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.018986	150	2821832	Stappiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.018859	149	186803	Lachnospiraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.018732	148	2714749	Lichenibacteriaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.018606	147	403	Methylococcaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.018479	146	1804993	Longimicrobiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.018100	143	75787	Rhodocyclaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.017973	142	5023	Venturiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.017973	142	2831111	Kaistiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.016960	134	1903411	Yersiniaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.016960	134	2843199	Miltoncostaeaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.016834	133	568386	Sinobacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.016834	133	1892254	Oscillatoriaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.016581	131	2211325	Vicinamibacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.016328	129	2767072	Treboniaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.015948	126	85002	Sphaerobacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.015948	126	332161	Solibacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.015568	123	1046	Chromatiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.015442	122	45131	Botryosphaeriaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.015188	120	1890426	Synechococcaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.014682	116	481	Neisseriaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.014556	115	2864377	Carbonactinosporaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.014302	113	36751	Glomeraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.014049	111	596498	Nitriliruptoraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.013670	108	2691359	Lacipirellulaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.013416	106	2805401	Antricoccaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.013290	105	62133	Capnodiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.013290	105	72276	Ectothiorhodospiraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.013290	105	194924	Desulfovibrionaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.013163	104	1499392	Chromobacteriaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.013037	103	1892255	Gomontiellaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.012910	102	2690195	Elioraeaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.012784	101	1962910	Bryobacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.012657	100	213422	Geobacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.012530	99	64899	Dothioraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.012530	99	2762286	Fulvivirgaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.012277	97	85022	Jonesiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.012277	97	2813035	Parvibaculaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.012024	95	2008794	Zoogloeaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.011898	94	603431	Gloniaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.011644	92	188786	Thermaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.011518	91	4782	Pythiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.011518	91	649777	Synergistaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.011265	89	118882	Brucellaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.011265	89	186827	Aerococcaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.011138	88	55176	Sporormiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.011012	87	2843308	Pleomorphomonadaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.010885	86	28568	Trichocomaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.010885	86	216572	Oscillospiraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.010758	85	47021	Orbiliaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.010758	85	1524215	Anaeromyxobacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.010632	84	908622	Euzebyaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.010379	82	1903409	Erwiniaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.010126	80	2844403	Rhodovibrionaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.009999	79	128827	Erysipelotrichaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.009999	79	134623	Opitutaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.009999	79	622451	Actinopolysporaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.009999	79	1892251	Coleofasciculaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.009872	78	744530	Dissoconiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.009746	77	79807	Coniochaetaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.009746	77	213119	Desulfobacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.009493	75	147574	Pseudoperisporiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.009493	75	681950	Glomerellaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.009366	74	186807	Peptococcaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.009240	73	388449	Ktedonobacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.009113	72	942	Anaplasmataceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.009113	72	1471398	Prolixibacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.008986	71	444	Legionellaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.008986	71	184208	Psathyrellaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.008986	71	1508635	Roseiflexaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.008986	71	1910785	Naemateliaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.008860	70	717954	Lindgomycetaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.008860	70	2723775	Lichenihabitantaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.008733	69	742845	Malasseziaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.008733	69	2571193	Dictyobacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.008607	68	28983	Sclerotiniaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.008607	68	292628	Anaerolineaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.008480	67	135620	Oceanospirillaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.008354	66	72275	Alteromonadaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.008354	66	104174	Oscillochloridaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.008100	64	2805586	Lawsonellaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.007974	63	281109	Aulographaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.007847	62	32011	Methylophilaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.007847	62	45307	Melanommataceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.007847	62	78060	Parmeliaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.007847	62	1639119	Plasmodiidae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.007847	62	1890237	Trimorphomycetaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.007721	61	2728979	Cylindrosympodiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.007594	60	37990	Xylariaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.007594	60	281242	Mytilinidiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.007468	59	85032	Acidothermaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.007468	59	1341112	Cyphellophoraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.007468	59	1747769	Egibacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.007468	59	2706122	Rhizodiscinaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.007341	58	186823	Alicyclobacillaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.007341	58	299071	Ajellomycetaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.007341	58	2843305	Phreatobacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.007215	57	34379	Pseudeurotiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.007088	56	1450292	Saccharataceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.007088	56	2887365	Marinobacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.006961	55	281124	Corynesporascaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.006961	55	2589077	Lachnaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.006835	54	29827	Lipomycetaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.006835	54	34397	Clavicipitaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.006835	54	1836792	Chthoniobacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.006835	54	2844864	Thalassobaculaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.006582	52	271822	Trypetheliaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.006582	52	332247	Trueperaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.006455	51	5250	Ceratobasidiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.006455	51	146292	Verrucariaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.006455	51	947094	Porosporidae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.006455	51	1450326	Lophiotremataceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.006329	50	35461	Chlorellaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.006329	50	69657	Hyphomonadaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.006329	50	134621	Verrucomicrobia subdivision 3
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.006202	49	186828	Carnobacteriaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.006202	49	224463	Nannocystaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.006202	49	1208339	Trematosphaeriaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.006202	49	1759442	Trichosporonaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.006075	48	186824	Thermoactinomycetaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.005949	47	5181	Helotiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.005949	47	200667	Flammeovirgaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.005949	47	1344955	Rhizopodaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.005949	47	1553902	Oligoflexaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.005949	47	1667020	Torulaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.005822	46	474942	Ophiocordycipitaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.005822	46	2917697	Salsipaludibacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.005696	45	170	Leptospiraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.005696	45	87265	Umbilicariaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.005696	45	1706372	Halieaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.005696	45	2494208	Capsulimonadaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.005569	44	50934	Physciaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.005569	44	1400857	Candidatus Competibacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.005443	43	34368	Geoglossaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.005443	43	715298	Lentitheciaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.005443	43	1450293	Aplosporellaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.005443	43	1573805	Marinifilaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.005443	43	1706371	Cellvibrionaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.005443	43	1813606	Balneolaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.005316	42	160033	Zopfiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.005316	42	171552	Prevotellaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.005316	42	1524216	Labilitrichaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.005316	42	1755824	Egicoccaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.005189	41	56478	Ramalinaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.005189	41	281213	Microthyriaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.005189	41	2800061	Maricaulaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.005189	41	2844601	Stellaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.005063	40	3024	Chordaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.005063	40	72294	Campylobacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.005063	40	85915	Pleomassariaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.005063	40	241722	Eremomycetaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.005063	40	1042314	Armatimonadaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.005063	40	1217822	Xylonaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.005063	40	1843490	Sporomusaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.004936	39	34371	Erysiphaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.004936	39	37883	Patellariaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.004936	39	213421	Desulfuromonadaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.004936	39	252141	Symbiodiniaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.004810	38	4854	Mortierellaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.004810	38	224464	Kofleriaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.004810	38	2714149	Lineolataceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.004683	37	5129	Hypocreaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.004683	37	81529	Salpingoecidae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.004683	37	147568	Myriangiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.004683	37	213483	Bdellovibrionaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.004683	37	224372	Alcanivoracaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.004683	37	2303527	Trichocoleusaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.004557	36	29217	Gigartinaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.004557	36	90627	Gallionellaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.004557	36	255474	Parvularculaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.004557	36	415002	Puniceicoccaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.004557	36	2755564	Mollisiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.004430	35	1182	Scytonemataceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.004430	35	2236	Halobacteriaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.004430	35	27970	Enterocytozoonidae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.004430	35	267890	Shewanellaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.004430	35	715292	Amniculicolaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.004430	35	1663426	Fimbriimonadaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.004430	35	1853230	Crocinitomicaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.004430	35	2814901	Propylenellaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.004303	34	4862	Kickxellaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.004303	34	35718	Chaetomiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.004303	34	71598	Graphidaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.004303	34	135617	Thiotrichaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.004303	34	2762276	Cesiribacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.004303	34	2844866	Thalassospiraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.004303	34	2866727	Reticulibacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.004177	33	137	Spirochaetaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.004177	33	147571	Piedraiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.004177	33	152637	Acrospermaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.004177	33	281106	Argynnaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.004177	33	1033978	Plectosphaerellaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.004177	33	1898439	Periconiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.004177	33	2231493	Phaeomoniellaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.004177	33	2685818	Amorphaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.004050	32	145359	Rarobacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.004050	32	475964	Caldilineaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.004050	32	510685	Sneathiellaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.004050	32	666507	Phycisphaeraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.003924	31	47743	Hyaloscyphaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.003924	31	186814	Thermoanaerobacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.003924	31	189773	Herpetosiphonaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.003924	31	1937960	Lewinellaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.003924	31	2844863	Tepidamorphaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.003797	30	5192	Morchellaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.003797	30	33184	Onygenaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.003797	30	45152	Phaeotrichaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.003797	30	186804	Peptostreptococcaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.003797	30	539000	Clostridiales Family XVII. Incertae Sedis
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.003797	30	563843	Rhodothermaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.003797	30	1910893	Cuniculitremaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.003797	30	2831090	Blastochloridaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.003671	29	4893	Saccharomycetaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.003671	29	5152	Ophiostomataceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.003671	29	84107	Coriobacteriaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.003671	29	109872	Catenariaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.003671	29	267888	Pseudoalteromonadaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.003671	29	1890436	Pseudanabaenaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.003671	29	2813951	Terasakiellaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.003544	28	1853227	Rubricoccaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.003544	28	1890464	Chroococcaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.003417	27	5215	Tremellaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.003417	27	1156497	Pichiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.003417	27	1643826	Eggerthellaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.003417	27	1643957	Roseiarcaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.003291	26	5117	Valsaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.003291	26	31977	Veillonellaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.003291	26	1131624	Thermoascaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.003291	26	1892263	Hapalosiphonaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.003291	26	2661849	Calotrichaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.003291	26	2800062	Robiginitomaculaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.003164	25	81064	Meruliaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.003164	25	213121	Desulfobulbaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.003164	25	767018	Diaporthaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.003164	25	1127830	Candidatus Brocadiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.003164	25	2005520	Dysgonomonadaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.003164	25	2033035	Hypoxylaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.003164	25	2650922	Aestuariivirgaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.003164	25	2692416	Ktedonosporobacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.003038	24	31984	Heliobacteriaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.003038	24	92713	Parachlamydiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.003038	24	1737406	Tissierellaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.003038	24	1798913	Microthrixaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.003038	24	1890422	Gloeobacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.002911	23	742031	Salinisphaeraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.002911	23	1937961	Haliscomenobacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.002911	23	2162846	Candidatus Nanopelagicaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.002785	22	1106	Chloroflexaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.002785	22	104366	Pleurotaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.002785	22	135616	Piscirickettsiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.002785	22	221679	Delitschiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.002785	22	225058	Acidithiobacillaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.002785	22	308925	Diversisporaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.002785	22	1667166	Stachybotryaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.002785	22	2803844	Usitatibacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.002658	21	3065	Volvocaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.002658	21	36753	Gigasporaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.002658	21	37240	Myxotrichaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.002658	21	110844	Rutstroemiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.002658	21	110846	Pyronemataceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.002658	21	316606	Segniliparaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.002658	21	1233474	Trichomeriaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.002658	21	1644061	Natrialbaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.002658	21	1682405	Microdochiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.002658	21	2008790	Thiobacillaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.002658	21	2829802	Afifellaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.002658	21	2844877	Zavarziniaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.002531	20	4764	Saprolegniaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.002531	20	34421	Hoehnelomycetaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.002531	20	103887	Bionectriaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.002531	20	119859	Tolypothrichaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.002531	20	267893	Idiomarinaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.002531	20	1522127	Catalimonadaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.002531	20	1644056	Haloferacaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.002405	19	3051	Chlamydomonadaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.002405	19	76657	Dermateaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.002405	19	89374	Saprospiraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.002405	19	103886	Chaetosphaeriaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.002405	19	191412	Chlorobiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.002405	19	255527	Saccharospirillaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.002405	19	768668	Thermogemmatisporaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.002405	19	2303730	Prochlorotrichaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.002405	19	2772226	Sulfuricellaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.002278	18	5262	Pucciniaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.002278	18	34384	Arthrodermataceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.002278	18	213468	Syntrophaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.002278	18	1706373	Microbulbiferaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.002278	18	1843491	Selenomonadaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.002278	18	1890449	Microcystaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.002278	18	1921568	Micropepsaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.002278	18	2005525	Tannerellaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.002278	18	2907192	Tricladiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.002152	17	2206	Methanosarcinaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.002152	17	33852	Bacillariaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.002152	17	34489	Mucoraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.002152	17	171551	Porphyromonadaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.002152	17	474943	Cordycipitaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.002152	17	2008793	Sterolibacteriaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.002152	17	2822331	Segnochrobactraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.002152	17	2845253	Treponemataceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.002025	16	772	Bartonellaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.002025	16	5317	Polyporaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.002025	16	39678	Arthoniaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.002025	16	40289	Tuberaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.002025	16	41873	Mamiellaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.002025	16	72117	Omphalotaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.002025	16	147546	Elaphomycetaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.002025	16	1077264	Chthonomonadaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.002025	16	1570339	Peptoniphilaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.002025	16	1851551	Mrakiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.002025	16	1963268	Haloarculaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.002025	16	2302913	Chloropicaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.002025	16	2831104	Breoghaniaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001899	15	81093	Magnaporthaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001899	15	286113	Synchytriaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001899	15	338190	Nitrosopumilaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001899	15	714940	Tetraplosphaeriaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001899	15	768649	Thermosporotrichaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001899	15	930979	Lyophyllaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001899	15	1890450	Aphanothecaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001899	15	1963271	Halorubraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001899	15	2005523	Paludibacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001772	14	64898	Aquificaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001772	14	119043	Rhodobiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001772	14	213465	Syntrophobacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001772	14	246874	Cryomorphaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001772	14	267889	Colwelliaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001772	14	1799696	Sporidiobolaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001772	14	1890428	Merismopediaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001772	14	1903412	Hafniaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001772	14	2907085	Amorphothecaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001645	13	4851	Cunninghamellaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001645	13	5186	Pezizaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001645	13	5339	Agaricaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001645	13	5593	Microascaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001645	13	27994	Theileriidae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001645	13	168130	Pelomyxidae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001645	13	186806	Eubacteriaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001645	13	186821	Sporolactobacillaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001645	13	574976	Holophagaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001645	13	1495648	Thermoflexaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001645	13	1692041	Acidiferrobacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001645	13	1890429	Acaryochloridaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001645	13	2609812	Podosporaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001645	13	2656784	Pleuroascaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001645	13	2762302	Reichenbachiellaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001645	13	2867375	Desulfallaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001519	12	53434	Halobacteroidaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001519	12	67474	Naviculaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001519	12	143786	Brachyspiraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001519	12	171550	Rikenellaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001519	12	265081	Thyridiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001519	12	410830	Trichomonascaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001519	12	431959	Wallemiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001519	12	1676141	Wenzhouxiangellaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001519	12	1706375	Spongiibacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001519	12	1892259	Aphanizomenonaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001519	12	2066474	Endozoicomonadaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001519	12	2528436	Pyriculariaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001519	12	2829290	Candidatus Eremiobacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001519	12	2881426	Prochlorococcaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001392	11	3114	Ulvaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001392	11	5103	Ascosphaeraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001392	11	34064	Francisellaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001392	11	118883	Sulfolobaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001392	11	189777	Thermomicrobiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001392	11	995019	Sutterellaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001392	11	1028423	Ceratocystidaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001392	11	1769247	Fomitopsidaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001392	11	1890431	Chamaesiphonaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001392	11	1971365	Chlorociboriaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001392	11	2172021	Ancalomicrobiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001392	11	2806305	Aggregatilineaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001392	11	2844881	Zymomonadaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001392	11	2907103	Hyphodiscaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001392	11	2910922	Lingulodiniaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001266	10	2979	Tribonemataceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001266	10	5189	Ascobolaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001266	10	5237	Tulasnellaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001266	10	41954	Amanitaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001266	10	103393	Peniophoraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001266	10	453228	Desulfarculaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001266	10	513556	Syntrophorhabdaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001266	10	766764	Debaryomycetaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001266	10	909930	Acidaminococcaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001266	10	1853231	Odoribacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001266	10	1890500	Hyellaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001266	10	2024004	Mycenaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001266	10	2316155	Ploettnerulaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001266	10	2682227	Tepidiformaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001266	10	2762284	Flexibacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001266	10	2762306	Roseivirgaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001266	10	2793945	Drepanopezizaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001266	10	2808963	Arcobacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001266	10	2812006	Bruguierivoracaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001139	9	5268	Ustilaginaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001139	9	5332	Schizophyllaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001139	9	35484	Haematococcaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001139	9	38749	Phaeodactylaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001139	9	40424	Hymenochaetaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001139	9	68298	Syntrophomonadaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001139	9	435412	Cavosteliaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001139	9	597359	Kiloniellaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001139	9	717964	Methylacidiphilaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001139	9	1382930	Ardenticatenaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001139	9	1403793	Umbelopsidaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001139	9	1706374	Porticoccaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001139	9	1812770	Pseudomassariaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001139	9	2028217	Gelatoporiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001139	9	2058185	Dictyosteliaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001139	9	2886822	Desulfocapsaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001013	8	2159	Methanobacteriaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001013	8	3043	Dunaliellaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001013	8	5148	Sordariaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001013	8	34426	Exidiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001013	8	44281	Pneumocystidaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001013	8	57506	Oxytrichidae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001013	8	72293	Helicobacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001013	8	225059	Thermithiobacillaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001013	8	399129	Cryphonectriaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001013	8	407032	Nitrospinaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001013	8	589343	Geminigeraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001013	8	1777752	Candidatus Paracaedibacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001013	8	1779135	Bradymonadaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001013	8	1890432	Romeriaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001013	8	1890528	Chroococcidiopsidaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001013	8	1962854	Calditrichaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001013	8	2028216	Grifolaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001013	8	2066491	Emcibacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001013	8	2502719	Sarocladiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001013	8	2717338	Rhabdaerophilaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001013	8	2762301	Marivirgaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001013	8	2844374	Pseudoxanthobacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001013	8	2900659	Candidatus Aquicultoraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.001013	8	2907087	Leptodontidiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000886	7	2259	Thermococcaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000886	7	2878	Ectocarpaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000886	7	4806	Blastocladiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000886	7	4883	Legeriomycetaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000886	7	5259	Melampsoraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000886	7	5351	Tricholomataceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000886	7	29007	Neocallimastigaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000886	7	33677	Acanthamoebidae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000886	7	118968	Coxiellaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000886	7	144536	Paraglomeraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000886	7	191394	Deferribacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000886	7	203492	Fusobacteriaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000886	7	543314	Eubacteriales Family XIII. Incertae Sedis
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000886	7	1010694	Opegraphaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000886	7	1331809	Kordiimonadaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000886	7	1352827	Chytriomycetaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000886	7	1460697	Coniothyriaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000886	7	1524213	Vulgatibacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000886	7	1535530	Schizoparmaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000886	7	1647988	Akkermansiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000886	7	2303507	Oculatellaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000886	7	2488219	Pezizellaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000759	6	2194	Methanomicrobiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000759	6	3086	Scenedesmaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000759	6	5654	Trypanosomatidae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000759	6	5765	Vahlkampfiidae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000759	6	5972	Halteriidae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000759	6	27319	Metschnikowiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000759	6	34353	Dipodascaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000759	6	36657	Pluteaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000759	6	41878	Pycnococcaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000759	6	42364	Diatrypaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000759	6	46451	Thelebolaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000759	6	47181	Ascodesmidaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000759	6	55071	Microbotryaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000759	6	89377	Crenotrichaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000759	6	109943	Gonapodyaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000759	6	188709	Thermotogaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000759	6	224379	Hahellaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000759	6	267892	Ferrimonadaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000759	6	655351	Cohaesibacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000759	6	795749	Ignavibacteriaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000759	6	908827	Punctulariaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000759	6	1129771	Leptotrichiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000759	6	1198451	Methanoregulaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000759	6	1486721	Methylothermaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000759	6	1643824	Atopobiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000759	6	1756146	Togniniaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000759	6	1892264	Fortieaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000759	6	1963270	Halococcaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000759	6	1969992	Desertifilaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000759	6	2024981	Notoacmeibacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000759	6	2493628	Minwuiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000759	6	2705999	Casimicrobiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000759	6	2762317	Thermoflexibacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000633	5	2146	Acholeplasmataceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000633	5	4858	Basidiobolaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000633	5	4870	Endogonaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000633	5	5254	Dacrymycetaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000633	5	34450	Cortinariaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000633	5	35434	Ostreobiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000633	5	35466	Selenastraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000633	5	40417	Auriscalpiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000633	5	68758	Hydnaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000633	5	80628	Atheliaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000633	5	89955	Suessiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000633	5	115784	Phaffomycetaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000633	5	214505	Geosiphonaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000633	5	224418	Shiraiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000633	5	227336	Suillaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000633	5	340080	Parameciidae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000633	5	654128	Marasmiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000633	5	715221	Caldicoprobacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000633	5	1134080	Powellomycetaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000633	5	1506295	Serendipitaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000633	5	1544800	Rhodothalassiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000633	5	1643949	Petrotogaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000633	5	1676650	Limnochordaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000633	5	1738654	Woeseiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000633	5	1769745	Pseudobacteriovoracaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000633	5	1868322	Candidatus Thermochlorobacteriaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000633	5	1890498	Dermocarpellaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000633	5	1892261	Chlorogloeopsidaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000633	5	2005473	Muribaculaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000633	5	2005519	Barnesiellaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000633	5	2056687	Fastidiosibacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000633	5	2682468	Pyramimonadaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000633	5	2810280	Coprobacillaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000633	5	2823145	Pleioneaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000633	5	2829814	Ahrensiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000633	5	2893042	Salisaetaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000633	5	2917811	Aliterellaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000506	4	972	Halanaerobiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000506	4	2803	Rhodomelaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000506	4	2975	Vaucheriaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000506	4	5198	Cladoniaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000506	4	5279	Tilletiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000506	4	5398	Bolbitiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000506	4	5401	Russulaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000506	4	5809	Sarcocystidae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000506	4	34365	Saccharomycodaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000506	4	34479	Spizellomycetaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000506	4	38257	Glaucocystaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000506	4	40562	Strophariaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000506	4	65355	Albuginaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000506	4	68792	Botryobasidiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000506	4	135266	Prasiolaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000506	4	143067	Methanotrichaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000506	4	172820	Apusomonadidae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000506	4	189770	Chrysiogenaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000506	4	196137	Methanospirillaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000506	4	206349	Hydrogenophilaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000506	4	291294	Tetrahymenidae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000506	4	449719	Granulosicoccaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000506	4	453565	Ambisporaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000506	4	533207	Acanthopleuribacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000506	4	543347	Clostridiales Family XVI. Incertae Sedis
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000506	4	543349	Symbiobacteriaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000506	4	558314	Desulfurobacteriaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000506	4	1131320	Euglenaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000506	4	1136790	Chrysochromulinaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000506	4	1240483	Orbaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000506	4	1266054	Algiphilaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000506	4	1333713	Schleiferiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000506	4	1555239	Caulochytriaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000506	4	1652132	Halobacteriovoraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000506	4	1655514	Pelagibacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000506	4	1769717	Mesoaciditogaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000506	4	1853233	Thermonemataceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000506	4	1937962	Microscillaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000506	4	2058183	Acytosteliaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000506	4	2100208	Caedimonadaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000506	4	2126473	Astrosphaeriellaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000506	4	2682562	Picocystaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000506	4	2770092	Tepidanaerobacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000506	4	2791015	Sphaerochaetaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000506	4	2922432	Phototrophicaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000380	3	1185	Rivulariaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000380	3	2232	Archaeoglobaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000380	3	2272	Desulfurococcaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000380	3	2799	Porphyridiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000380	3	3135	Dasycladaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000380	3	4894	Schizosaccharomycetaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000380	3	5227	Auriculariaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000380	3	5368	Boletaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000380	3	27999	Perkinsidae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000380	3	29202	Thalassiosiraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000380	3	31345	Bangiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000380	3	35429	Chlorodendraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000380	3	37358	Plasmodiophoridae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000380	3	37466	Sclerodermataceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000380	3	39940	Mycocaliciaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000380	3	44746	Holosporaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000380	3	48860	Peltigeraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000380	3	49236	Chaetocerotaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000380	3	50931	Pertusariaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000380	3	56488	Thelephoraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000380	3	66801	Gymnodiniaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000380	3	70187	Olpidiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000380	3	103376	Stereaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000380	3	186041	Entomoneidaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000380	3	213116	Desulfomicrobiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000380	3	224380	Desulfonatronaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000380	3	263369	Bacteriovoracaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000380	3	389734	Hygrophoropsidaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000380	3	396331	Phanerochaetaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000380	3	412447	Criblamydiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000380	3	418966	Noelaerhabdaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000380	3	425072	Monodopsidaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000380	3	543371	Thermoanaerobacterales Family III. Incertae Sedis
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000380	3	580372	Mariprofundaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000380	3	862241	Physalacriaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000380	3	990719	Christensenellaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000380	3	1191479	Magnetococcaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000380	3	1202464	Dehalococcoidaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000380	3	1284389	Bracteacoccaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000380	3	1442156	Ferrovaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000380	3	1505234	Chitinivibrionaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000380	3	1525212	Bathycoccaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000380	3	1840213	Lentimicrobiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000380	3	1853225	Salinibacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000380	3	1890482	Entophysalidaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000380	3	1903416	Budviciaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000380	3	1934946	Immundisolibacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000380	3	1937968	Bernardetiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000380	3	1955043	Gloeomargaritaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000380	3	2042895	Gottschalkiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000380	3	2483367	Sedimentisphaeraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000380	3	2614438	Candidatus Magnetaquicoccaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000380	3	2691358	Thermoguttaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000380	3	2750653	Pontiellaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000380	3	2771471	Thiovulaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000380	3	2772533	Luteibaculaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000380	3	2814874	Neomegalonemataceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000380	3	2858885	Mangrovivirgaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000380	3	2900654	Candidatus Geothermincolaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000380	3	2907186	Tichowtungiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	868	Cardiobacteriaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	2092	Mycoplasmataceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	2183	Methanococcaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	2267	Thermoproteaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	2874	Dictyotaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	2896	Cryptomonadaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	2943	Prorocentraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	5009	Taphrinaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	5799	Eimeriidae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	27330	Protomycetaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	33674	Thraustochytriaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	34486	Ancylistaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	35082	Cryptosporidiidae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	35432	Caulerpaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	39782	Blattabacteriaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	39933	Lecanoraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	40458	Hericiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	40465	Sparassidaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	47777	Tetrabaenaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	48501	Astrephomenaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	48595	Rhizopogonaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	57201	Cantharellaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	60108	Gomphaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	78905	Sigmoideomycetaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	83763	Succinivibrionaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	88646	Teloschistaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	97225	Gomphonemataceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	163315	Microsporaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	188711	Thermodesulfobacteriaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	188961	Reticulomyxidae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	190068	Brachybasidiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	191033	Oleiphilaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	196117	Methanocaldococcaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	204431	Fibrobacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	213117	Desulfohalobiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	219169	Stentoridae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	224027	Hydrogenothermaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	224467	Nautiliaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	238884	Cafeteriaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	255526	Halothiobacillaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	255528	Victivallaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	265316	Cyanidiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	267891	Moritellaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	267894	Psychromonadaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	418969	Pavlovaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	449732	Litoricolaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	499202	Lichtheimiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	543372	Thermoanaerobacterales Family IV. Incertae Sedis
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	566277	Lentisphaeraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	574935	Schizoporaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	651809	Phaselicystidaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	721929	Jaapiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	1096778	Thioalkalispiraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	1163720	Leucosporidiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	1185407	Defluviitaleaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	1334117	Melioribacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	1460864	Methanocalculaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	1491775	Proteinivoraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	1577788	Methanomassiliicoccaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	1643948	Kosmotogaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	1643950	Fervidobacteriaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	1648490	Rubritaleaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	1827282	Ventosimonadaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	1890448	Spirulinaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	1931355	Irpicaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	2028214	Dacryobolaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	2041443	Juglanconidaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	2058184	Cavenderiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	2058186	Raperosteliaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	2212439	Thiolinaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	2212440	Thiofilaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	2419832	Candidatus Ozemobacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	2498708	Candidatus Cryosericaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	2603322	Vallitaleaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	2682465	Nephroselmidaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	2682484	Microthamniaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	2748673	Zhaonellaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	2762316	Terrimicrobiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	2770093	Thermosediminibacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	2786988	Koleobacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	2805591	Tropherymataceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	2811504	Thermodesulfovibrionaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	2812024	Syntrophotaleaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	2812940	Natronogracilivirgulaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	2813859	Natronospirillaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	2815910	Geminocystaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	2881378	Thermosynechococcaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000253	2	2900672	Candidatus Anoxymicrobiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	2178	Methanothermaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	2307	Pyrodictiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	3070	Oocystaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	5739	Hexamitidae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	29824	Neolectaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	31386	Delesseriaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	31478	Hildenbrandiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	31492	Rhodogorgonaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	33093	Chaetophoraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	33105	Derbesiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	33842	Stephanopyxidaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	33856	Fragilariaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	34418	Cystobasidiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	34481	Entomophthoraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	35088	Gregarinidae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	35102	Pseudocohnilembidae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	35445	Trentepohliaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	36752	Acaulosporaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	37566	Syncephalastraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	38266	Gloeochaetaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	38747	Coscinodiscaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	40420	Bondarzewiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	40455	Fistulinaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	44277	Ascoideaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	46128	Soritidae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	49229	Hemidiscaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	51326	Chaetopeltidaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	52675	Sphaeropleaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	61422	Harpellaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	62920	Cryptobasidiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	65588	Sphaerozoidae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	66611	Chaetothyriaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	68773	Nidulariaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	68781	Lachnocladiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	68784	Sphaerobolaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	73894	Gyrodontaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	80634	Coniophoraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	81059	Steccherinaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	88404	Methanocorpusculaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	92714	Waddliaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	95227	Vannellidae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	100127	Euplotidae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	101094	Choanephoraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	104350	Crepidotaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	106328	Coleosporiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	114378	Thermofilaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	129109	Lobariaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	132191	Neochloridaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	134627	Verrucomicrobia subdivision 6
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	165795	Mixiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	169194	Collemataceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	196636	Eunotiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	227329	Pisolithaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	232509	Plagiogrammaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	233768	Ishigeaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	255472	Caldisphaeraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	262632	Pterulaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	265535	Amphipleuraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	265582	Stauroneidaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	291600	Phlyctidaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	292630	Hydrogenimonaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	389951	Serpulaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	412032	Celerinatantimonadaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	420617	Mallomonadaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	539003	Bacillales Family X. Incertae Sedis
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	541019	Gracilibacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	543313	Eubacteriales Family XII. Incertae Sedis
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	570265	Methanocellaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	658124	Chattonellaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	740973	Dientamoebidae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	740983	Tritrichomonadidae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	1027875	Ichthyobodonidae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	1292368	Dixoniellaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	1387702	Scotinosphaeraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	1392996	Candidatus Methanoperedenaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	1424649	Phyllostictaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	1501348	Amoebophilaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	1525215	Monomastigaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	1581159	Rhynchogastremataceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	1643685	Borreliaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	1749038	Violaceomycetaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	1771359	Thorselliaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	1783343	Endomicrobiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	1860138	Chitinispirillaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	1884640	Bulleribasidiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	1892249	Cyanothecaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	1903335	Balneicellaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	1905116	Bulleraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	1920240	Kangiellaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	1921783	Kiritimatiellaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	1970190	Salinivirgaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	2028207	Panaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	2028212	Laetiporaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	2030936	Koliellaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	2035710	Thioalkalibacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	2138247	Coprothermobacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	2171994	Candidatus Nanosyncoccacae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	2201466	Palmophyllaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	2508947	Candidatus Borkfalkiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	2517203	Candidatus Methanomethylophilaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	2545691	Candidatus Methanollivieraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	2547934	Blastocystidae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	2562242	Thermoanaerobaculaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	2562244	Thermotomaculaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	2605696	Vitrellaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	2682464	Chlorosarcinaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	2682492	Oltmannsiellopsidaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	2682551	Ignatiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	2683624	Andaluciidae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	2690158	Anaerohalosphaeraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	2703813	Candidatus Mcinerneyibacteriaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	2759602	Crassisporiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	2759950	Dissulfurirhabdaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	2760872	Tenuifilaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	2771472	Sulfurovaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	2772534	Vicingaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	2772535	Salibacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	2810281	Turicibacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	2811505	Dissulfurispiraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	2848916	Thermohalobacteraceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	2856854	Ostreibacteriaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	2873895	Psittacicellaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	2881384	Thermostichaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	2887331	Perlucidibacaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	2897346	Candidatus Scalinduaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	2898533	Zooshikellaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	2900657	Candidatus Hydromicrobiaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.000127	1	2904714	Desulfosalsimonadaceae
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	0.079360	627	10239	Viruses
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	16.972818	134098	NA	cannot be assigned to a (non-viral) family
-/kb/module/work/tmp/output_1712704450827/kaiju_output/22AB-1.kaiju	70.296293	1869778	NA	unclassified
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	5.262458	396	2052899	Cladosporium fulvum T-1 virus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	3.601329	271	2884420	Bacillus phage G
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	3.189369	240	446529	Microbacterium phage Min1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	2.897010	218	107324	Tobacco vein clearing virus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	2.578073	194	10662	Myoviridae
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	2.299003	173	693272	Cafeteria roenbergensis virus BV-PW1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	2.205980	166	90964	Staphylococcaceae
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	2.019934	152	857479	Peduovirinae
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	1.860465	140	10699	Siphoviridae
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	1.833887	138	2733104	Eurybiavirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	1.714286	129	549779	Mimiviridae
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	1.541528	116	2041344	Mycobacterium phage Kumao
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	1.461794	110	2027899	Mycobacterium phage Phabba
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	1.315615	99	1542477	Prochlorococcus phage P-TIM68
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	1.315615	99	1917232	Only Syngen Nebraska virus 5
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	1.289037	97	2590946	Streptomyces phage Celia
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	1.196013	90	251749	Phaeocystis globosa virus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	1.129568	85	1623292	Omegavirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	1.116279	84	1982880	Likavirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	1.063123	80	67082	BeAn 58058 virus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	1.009967	76	1300	Streptococcaceae
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.943522	71	995049	Sweet potato vein clearing virus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.890365	67	1913591	Streptomyces phage BRock
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.850498	64	2716351	Escherichia phage 500465-1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.823920	62	2070181	Faecalibacterium phage FP_Brigit
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.744186	56	28883	Caudovirales
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.637874	48	1903266	Cedratvirus A11
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.624585	47	328615	Trichoplusia ni ascovirus 2c
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.598007	45	1982875	Arquatrovirinae
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.584718	44	455364	Chrysochromulina ericina virus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.571429	43	196894	unclassified Siphoviridae
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.571429	43	1572712	Geobacillus virus E3
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.558140	42	10682	Enterobacteria phage P7
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.544850	41	880158	unclassified Prasinovirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.544850	41	2060084	Pandoravirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.504983	38	2023057	Orpheovirus IHUMI-LCC2
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.504983	38	2301600	Corynebacterium phage Juicebox
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.491694	37	322019	Acanthocystis turfacea chlorella virus 1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.491694	37	1897437	Rhodococcus phage Weasels2
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.491694	37	1912143	Biquartavirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.491694	37	2079134	Dishui lake phycodnavirus 1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.478405	36	212035	Acanthamoeba polyphaga mimivirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.478405	36	2169728	Dioscorea bacilliform TR virus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.465116	35	1821566	Gordonia phage Yvonnetastic
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.438538	33	1792032	Bacillus phage SP-15
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.438538	33	2108115	Escherichia phage SH2026Stx1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.425249	32	181083	Chlorovirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.425249	32	2024264	Agrobacterium phage Atu_ph07
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.425249	32	2801477	Flavobacterium phage vB_FspM_immuto_2-6A
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.425249	32	2842523	Bronfenbrennervirinae
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.398671	30	196896	unclassified Myoviridae
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.398671	30	889956	Prochlorococcus phage MED4-213
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.398671	30	2733124	Phapecoctavirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.385382	29	180504	Burkholderia virus phiE125
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.358804	27	1643326	Bacillus phage phi4J1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.345515	26	2560111	Ceetrepovirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.345515	26	2843450	Sarumanvirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.332226	25	2283031	Dickeya phage vB_DsoM_JA29
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.332226	25	2283286	Gordonia phage Daredevil
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.318937	24	482822	Escherichia phage DE3
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.318937	24	1094892	Megavirus chiliensis
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.318937	24	1623284	Kostyavirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.318937	24	2584487	Vibrio phage VAP7
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.318937	24	2601643	Erwinia phage pEp_SNUABM_01
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.292359	22	198110	Pseudomonas phage 201phi2-1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.292359	22	268746	Prochlorococcus phage P-SSM2
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.292359	22	1150991	Sphingomonas phage PAU
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.292359	22	2014434	Escherichia phage D6
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.292359	22	2079426	Streptomyces phage BillNye
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.279070	21	158683	Diadromus pulchellus ascovirus 4a
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.279070	21	2267679	Pinus nigra virus 1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.279070	21	2922990	Mycobacterium phage Larva
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.265781	20	181084	Prasinovirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.265781	20	1675601	Caulobacter phage Seuss
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.265781	20	1697349	Scale drop disease virus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.265781	20	2847058	Escherichia phage 2H10
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.252492	19	1527493	Mycobacterium phage Sparky
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.252492	19	2704033	Gordonia phage Skog
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.252492	19	2843411	Lahexavirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.239203	18	198538	Streptococcus phage 315.1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.239203	18	321023	Aeromonas virus 31
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.239203	18	1269028	Acanthamoeba polyphaga moumouvirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.239203	18	2508196	unclassified Vequintavirinae
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.239203	18	2723773	Agrobacterium phage OLIVR5
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.225914	17	994601	Planktothrix phage PaV-LD
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.225914	17	2656541	Gordonia phage Stormageddon
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.212625	16	2591411	Brevibacterium phage AGM1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.212625	16	2907963	Aeromonas phage 44RR2.8t
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.199336	15	64461	Walleye epidermal hyperplasia virus 2
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.199336	15	1474867	Aureococcus anophagefferens virus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.186047	14	181082	Emiliania huxleyi virus 86
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.186047	14	384848	Corynebacterium phage P1201
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.186047	14	754042	Synechococcus phage S-SKS1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.186047	14	1698709	Mycobacterium phage Enkosi
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.186047	14	1982101	Bernalvirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.186047	14	2842727	Henunavirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.186047	14	2843384	Fukuivirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.172757	13	11856	Squirrel monkey retrovirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.172757	13	381899	Paramecium bursaria Chlorella virus A1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.172757	13	445688	Prochlorococcus phage P-SSM7
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.172757	13	755272	Micromonas pusilla virus 12T
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.172757	13	1982086	Laroyevirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.172757	13	2099637	Mycobacterium phage Mendokysei
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.159468	12	683735	Aggregatibacter phage S1249
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.159468	12	1220717	Rhizobium phage RHEph10
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.159468	12	1327990	Cellulophaga phage phi14:2
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.159468	12	1590550	Escherichia phage RCS47
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.159468	12	1838074	Gordonia phage OneUp
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.159468	12	1883368	Synechococcus phage S-CAM7
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.159468	12	2562717	unclassified Timquatrovirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.159468	12	2678601	Erwinia phage Hena1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.146179	11	11757	Mouse mammary tumor virus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.146179	11	458639	Bacillus phage 0305phi8-36
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.146179	11	1732063	Staphylococcus phage SPbeta-like
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.146179	11	2530116	Gordonia phage BrutonGaster
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.146179	11	2599828	Arthrobacter phage Lymara
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.146179	11	2599885	Mycobacterium phage Yuna
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.132890	10	59241	Streptococcus phage Dp-1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.132890	10	151539	Lactococcus phage bIL312
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.132890	10	186789	Punavirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.132890	10	880159	Bathycoccus sp. RCC1105 virus BpV1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.132890	10	1335230	Pseudomonas phage PaBG
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.132890	10	1340810	Synechococcus phage ACG-2014h
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.132890	10	1647470	Gordonia phage GMA1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.132890	10	1826170	Tokyovirus A1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.132890	10	1873777	Streptomyces phage Nanodon
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.132890	10	2488571	Lactococcus phage phiQ1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.132890	10	2562192	Gordonia phage GodonK
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.132890	10	2733170	Bridgettevirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.119601	9	1623281	Cheoctovirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.119601	9	1815968	Salmonella phage SJ46
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.119601	9	1883375	Erwinia phage Machina
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.119601	9	1980924	Ralstonia phage phiRSL1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.119601	9	2488789	Streptomyces phage Gilson
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.106312	8	10239	Viruses
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.106312	8	186764	Fromanvirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.106312	8	445686	Synechococcus phage S-SSM7
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.106312	8	504346	Pseudomonas phage PAJU2
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.106312	8	1128424	Helicoverpa zea nudivirus 2
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.106312	8	1325731	Flavobacterium phage 6H
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.106312	8	1414742	Arthrobacter phage vB_ArS-ArV2
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.106312	8	1449437	Pseudomonas phage vB_PaeP_Tr60_Ab31
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.106312	8	1493511	Synechococcus phage ACG-2014f
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.106312	8	1606763	Mycobacterium phage Kratio
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.106312	8	1898060	Lymphocystis disease virus Sa
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.106312	8	2560134	Galaxyvirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.106312	8	2599886	Mycobacterium phage Yunkel11
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.093023	7	11764	Baboon endogenous virus strain M7
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.093023	7	11768	Feline leukemia virus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.093023	7	128706	Haloviruses
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.093023	7	373996	Micromonas pusilla virus SP1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.093023	7	399781	Paramecium bursaria Chlorella virus FR483
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.093023	7	546805	Mycobacterium phage Myrna
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.093023	7	880161	Micromonas sp. RCC1109 virus MpV1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.093023	7	1357715	Microcystis phage MaMV-DC
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.093023	7	1407493	Shigella phage SfIV
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.093023	7	1503929	Aurantimonas phage AmM-1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.093023	7	1674927	Streptomyces phage Lannister
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.093023	7	1777052	Pseudomonas phage JBD44
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.093023	7	1837876	Acinetobacter phage vB_AbaM_ME3
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.093023	7	1983744	Bongovirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.093023	7	2027888	Brevibacterium phage LuckyBarnes
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.093023	7	2044561	Stenotrophomonas phage vB_SmaS_DLP_5
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.093023	7	2301697	Gordonia phage Schmidt
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.093023	7	2419965	Arthrobacter phage Peas
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.093023	7	2419970	Arthrobacter phage Yang
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.093023	7	2560086	Alcyoneusvirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.093023	7	2560220	Samistivirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.093023	7	2587814	Serratia phage Moabite
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.093023	7	2591131	Rhodococcus phage Sleepyhead
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.093023	7	2732982	Kisquattuordecimvirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.093023	7	2772069	crAssphage cr108_1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.093023	7	2919549	Aeromonas phage 65
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.079734	6	66797	Bacillus virus SPbeta
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.079734	6	257816	Cotesia glomerata bracovirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.079734	6	335795	unclassified Lambdavirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.079734	6	445700	Prochlorococcus phage P-HM1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.079734	6	910473	Burkholderia phage KS5
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.079734	6	998086	Pseudomonas phage PhiPA3
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.079734	6	1007869	Rhodococcus phage E3
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.079734	6	1109712	Rhodococcus phage REQ1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.079734	6	1349409	Pandoravirus dulcis
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.079734	6	1406793	Clavibacter phage CN1A
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.079734	6	1414737	Rhizobium phage vB_RleS_L338C
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.079734	6	1486472	Mycobacterium phage Gaia
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.079734	6	1622193	Gordonia phage Gsput1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.079734	6	1623306	Timquatrovirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.079734	6	1647282	Paracoccus phage Shpa
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.079734	6	1682380	Roseobacter phage RDJL Phi 2
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.079734	6	1772294	Arthrobacter phage CaptnMurica
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.079734	6	1772326	Arthrobacter phage Galaxy
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.079734	6	1887651	Gordonia phage Nyceirae
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.079734	6	1982557	Smoothievirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.079734	6	2015851	Corynebacterium phage Poushou
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.079734	6	2023996	Synechococcus phage Bellamy
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.079734	6	2182341	Microbacterium phage Hendrix
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.079734	6	2301621	Streptomyces phage Yaboi
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.079734	6	2303485	Dioscorea nummularia-associated virus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.079734	6	2530032	Burkholderia phage BcepSaruman
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.079734	6	2588504	Corynebacterium phage Stiles
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.079734	6	2599764	Sinorhizobium phage ort11
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.079734	6	2604899	Pseudomonas phage Zuri
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.079734	6	2653725	Streptomyces phage Daubenski
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.079734	6	2843466	Teubervirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.066445	5	10501	Phycodnaviridae
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.066445	5	10652	Badnavirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.066445	5	37665	Ectocarpus siliculosus virus 1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.066445	5	140052	Betaretrovirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.066445	5	335797	Burkholderia phage KS9
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.066445	5	353769	unclassified Gammaretrovirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.066445	5	444860	Synechococcus phage S-SM2
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.066445	5	536444	Cyanophage P-RSM1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.066445	5	691964	Rhodococcus phage ReqiPoco6
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.066445	5	999883	Lausannevirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.066445	5	1357825	Enterobacteria phage fiAA91-ss
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.066445	5	1450746	Pithovirus sibericum
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.066445	5	1527770	Rhizobium phage vB_RleM_P10VF
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.066445	5	1527771	Mesorhizobium phage vB_MloP_Lo5R7ANS
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.066445	5	1589733	Cyanophage P-TIM40
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.066445	5	1887641	Gordonia phage Bantam
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.066445	5	1920750	Mapvirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.066445	5	1921553	Seuratvirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.066445	5	1982088	Mudcatvirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.066445	5	2027905	Rhodococcus phage Trina
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.066445	5	2029657	Bordetella phage vB_BbrM_PHB04
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.066445	5	2048977	Pseudomonas phage nickie
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.066445	5	2079282	Gordonia phage Troje
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.066445	5	2182350	Microbacterium phage Appa
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.066445	5	2250319	Gordonia phage Apricot
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.066445	5	2499009	Arthrobacter phage Maja
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.066445	5	2499072	Streptomyces phage Hiyaa
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.066445	5	2502306	Escherichia phage vB_EcoM_G4507
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.066445	5	2560070	Bastillevirinae
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.066445	5	2560127	Emalynvirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.066445	5	2560244	Tulanevirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.066445	5	2571249	Gordonia phage Pupper
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.066445	5	2588502	Corynebacterium phage Lederberg
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.066445	5	2591132	Rhodococcus phage Whack
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.066445	5	2593333	Arthrobacter phage Vibaki
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.066445	5	2733140	Wellingtonvirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.066445	5	2733208	Samwavirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.066445	5	2752534	unclassified Eurybiavirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.066445	5	2762283	Mycobacterium phage Reindeer
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.066445	5	2797324	Gordonia phage TinaLin
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.066445	5	2843347	Annadreamyvirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.053156	4	10242	Orthopoxvirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.053156	4	10702	Streptomyces phage VWB
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.053156	4	10724	Bacillus phage SPP1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.053156	4	39720	Walleye dermal sarcoma virus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.053156	4	150286	Anguillid herpesvirus 1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.053156	4	382685	Lactococcus phage Q54
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.053156	4	523909	Musca domestica salivary gland hypertrophy virus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.053156	4	536466	Synechococcus phage S-SSM4
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.053156	4	573174	Vibrio phage henriette 12B8
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.053156	4	747763	Streptomyces phage phiSASD1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.053156	4	910474	Burkholderia phage KL3
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.053156	4	981330	Tsukamurella phage TPA2
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.053156	4	1175657	Pseudomonas phage PaMx11
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.053156	4	1308897	Staphylococcus phage StauST398-5
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.053156	4	1401669	Erwinia phage PhiEaH1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.053156	4	1403390	Staphylococcus phage phiRS7
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.053156	4	1486424	Mycobacterium phage Bernal13
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.053156	4	1530085	Ralstonia phage RSY1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.053156	4	1636182	Sinorhizobium phage phiM9
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.053156	4	1647468	Salmonella phage SEN8
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.053156	4	1838066	Gordonia phage Cozz
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.053156	4	1838138	Propionibacterium phage PFR2
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.053156	4	1880590	Tenacibaculum phage pT24
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.053156	4	1883365	Synechococcus phage S-CAM22
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.053156	4	1923889	Ralstonia phage RP12
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.053156	4	1980139	Sphingobium phage Lacusarx
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.053156	4	1982900	Rosebushvirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.053156	4	2049885	Vendettavirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.053156	4	2107708	Pandoravirus neocaledonia
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.053156	4	2107709	Pandoravirus quercus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.053156	4	2108127	Mycobacterium phage MooMoo
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.053156	4	2169653	Doucettevirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.053156	4	2220062	unclassified Likavirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.053156	4	2233778	unclassified Camvirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.053156	4	2250335	Streptomyces phage Annadreamy
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.053156	4	2283013	Bacillus phage BSP38
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.053156	4	2283029	Dickeya phage vB_DsoM_AD1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.053156	4	2315544	Mycobacterium phage Paito
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.053156	4	2560349	Blackberry virus F
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.053156	4	2562663	unclassified Vividuovirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.053156	4	2599838	Arthrobacter phage TripleJ
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.053156	4	2653270	Arthrobacter phage Kuleana
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.053156	4	2656534	Gordonia phage EMoore
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.053156	4	2681623	Mycobacterium phage Llij
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.053156	4	2686055	Escherichia virus Lambda_4A7
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.053156	4	2716352	Escherichia phage 500465-2
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.053156	4	2732612	Dolichocephalovirinae
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.053156	4	2759393	Gordonia phage Clown
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.053156	4	2763102	Enterococcus phage 9183
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.053156	4	2772078	crAssphage cr271_1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	10241	Chordopoxvirinae
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	10704	Rhizobium phage 16-3
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	11777	Feline sarcoma virus (STRAIN HARDY-ZUCKERMAN 4)
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	11807	Harvey murine sarcoma virus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	12417	Lactobacillus phage phiadh
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	39640	Cotesia congregata bracovirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	40270	Snakehead retrovirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	45764	Mycobacterium phage DS6A
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	64462	Walleye epidermal hyperplasia virus 1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	153135	Gammaretrovirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	263892	Bougainvillea chlorotic vein banding virus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	348137	Burkholderia phage Bcep176
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	549205	Cycad leaf necrosis virus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	754044	Loktanella phage pCB2051-A
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	869662	Synechococcus phage S-RIM2 R1_1999
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	889876	Acinetobacter phage AB1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	930168	Sweet potato collusive virus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	948071	Puniceispirillum phage HMO-2011
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	1026955	Synechococcus phage S-CRM01
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	1109713	Rhodococcus phage REQ2
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	1109714	Rhodococcus phage REQ3
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	1133022	Burkholderia phage vB_BceS_AH2
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	1136534	Bacillus phage BCD7
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	1195085	Cronobacter phage CR5
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	1327935	Cronobacter phage S13
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	1329402	Eptesipox virus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	1406785	Bacillus phage Grass
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	1481186	Acinetobacter phage vB_AbaM_Acibel004
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	1524882	Sinorhizobium phage phiLM21
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	1540090	Bacillus phage Mater
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	1567486	Escherichia phage P88
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	1586713	Yellowstone lake phycodnavirus 1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	1623278	Bronvirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	1636271	Verrucomicrobia phage P8625
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	1647469	Gordonia phage GAL1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	1647474	Gordonia phage GTE6
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	1675600	Caulobacter phage Sansa
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	1690818	Streptomyces phage SF3
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	1718278	Brucella phage BiPBO1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	1754217	Pseudomonas phage phi3
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	1775140	Bacillus phage vB_BhaS-171
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	1815630	Pseudomonas phage pf16
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	1838064	Gordonia phage BritBrat
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	1868596	Pseudomonas phage MD8
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	1883366	Synechococcus phage S-CAM3
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	1883369	Synechococcus phage S-CAM9
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	1914852	Vequintavirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	1920312	Streptomyces phage Raleigh
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	1933063	Bacillus phage vB_BsuM-Goe3
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	1965366	Escherichia phage phiEC1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	1982091	Marvinvirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	1982251	Pahexavirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	1982745	Woodruffvirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	1982879	Camvirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	1984776	Agricanvirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	2026102	Klebsiella phage YMC16/01/N133_KPN_BP
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	2052742	Yersinia phage fHe-Yen9-04
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	2107707	Pandoravirus macleodensis
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	2267653	Erwinia phage Wellington
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	2268578	Synechococcus phage S-T4
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	2301714	Streptomyces phage Comrade
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	2484206	Microbacterium phage Goodman
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	2484640	Synechococcus phage S-P4
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	2488780	Arthrobacter phage Liebe
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	2502409	Escherichia phage vB_EcoM_Goslar
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	2560160	Kochikohdavirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	2562661	unclassified Fromanvirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	2588513	Mycobacterium phage ThetaBob
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	2593638	Bacillus phage vB_BmeM-Goe8
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	2656526	Arthrobacter phage Mufasa8
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	2674976	Xanthomonas phage Bosa
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	2696340	Enterobacter phage vB_EclM_CIP9
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	2731643	Autographiviridae
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	2732007	Nucleocytoviricota
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	2732523	Megaviricetes
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	2733200	Oneupvirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	2788176	unclassified Fairfaxidumvirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	2843421	Menderavirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	2843422	Moabitevirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	2843444	Ravarandavirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	2843445	Rockefellervirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	2843447	Ronodorvirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	2886930	Escherichia phage phiX174
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.039867	3	2907835	Mycobacterium phage Omega
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	10678	Escherichia virus P1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	10744	Podoviridae
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	11885	Fujinami sarcoma virus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	66284	Shigella phage SfII
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	97195	Heterosigma akashiwo virus 01
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	103807	Enterobacteria phage phiP27
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	109981	Diachasmimorpha longicaudata entomopoxvirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	114416	Lactococcus phage ul36
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	153057	Alpharetrovirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	174178	Citrus yellow mosaic virus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	279383	Alphaproteobacteria virus phiJl001
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	317858	Cyprinid herpesvirus 1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	373415	Mycobacterium phage Wildcat
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	447909	Geobacillus virus E2
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	480808	Mycobacterium phage Giles
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	491893	Abalone shriveling syndrome-associated virus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	558016	Alphabaculovirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	680114	Bixzunavirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	691963	Rhodococcus phage ReqiPine5
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	700512	Vibrio phage SIO-2
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	754046	Sulfitobacter phage phiCB2047-B
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	755164	Lactobacillus phage LBR48
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	929834	Rhizobium phage RR1-B
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	944644	Marseilleviridae
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	1016855	Banana streak UI virus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	1074309	Mycobacterium phage BigNuz
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	1109717	Rhodococcus phage RRH1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	1141136	Cronobacter phage vB_CsaM_GAP32
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	1147150	Enterobacteria phage mEp235
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	1147152	Enterobacteria phage mEp460
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	1161931	Agrobacterium phage 7-7-1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	1204524	Streptomyces phage phiHau3
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	1211640	Caulobacter phage CcrColossus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	1226260	Stx2-converting phage Stx2a_WGPS2
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	1273746	Halovirus HCTV-1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	1278485	Cyanophage S-RIM44
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	1279082	Pseudomonas phage PPpW-3
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	1283076	Pelagibacter phage HTVC008M
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	1327993	Cellulophaga phage phi39:1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	1349410	Pandoravirus salinus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	1429759	Mycobacterium phage EagleEye
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	1450169	Pseudomonas phage phi2
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	1493509	Synechococcus phage ACG-2014d
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	1513458	Marseillevirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	1540091	Bacillus phage Moonbeam
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	1563661	Delftia phage RG-2014
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	1573458	Pseudomonas phage PS-1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	1585840	Ralstonia phage RSL2
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	1610833	Bacillus phage Stills
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	1610872	Staphylococcus phage IME-SA4
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	1623290	Cecivirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	1623295	Pegunavirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	1678078	Mollivirus sibericum
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	1691954	Brevibacillus phage Jenst
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	1718161	Paenibacillus phage Tripp
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	1755689	Pseudomonas phage YMC11/02/R656
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	1776293	Bacillus phage Eldridge
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	1815511	Lactobacillus phage PLE2
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	1821551	Gordonia phage BetterKatz
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	1852629	Acinetobacter phage vB_AbaS_TRS1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	1857844	Pecentumvirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	1864622	Enterobacter phage Arya
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	1887656	Gordonia phage Zirinka
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	1891767	Macaca mulatta polyomavirus 1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	1897497	Mycobacterium phage Tortellini
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	1910931	Agatevirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	1910937	Bacillus virus Bp8pC
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	1911929	Caeruleovirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	1913654	Gaprivervirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	1964565	Synechococcus virus S-ESS1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	1982076	Korravirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	1982881	Arequatrovirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	2005509	Centapoxvirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	2010329	Acidovorax phage ACP17
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	2011081	Pseudomonas virus Pf1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	2024284	Streptomyces phage DrGrey
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	2027883	Arthrobacter phage Adat
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	2053812	Streptomyces phage Manuel
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	2100421	uncultured Caudovirales phage
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	2169655	Pulverervirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	2201436	Microbacterium phage MementoMori
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	2250291	Mycobacterium phage Aminay
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	2283269	Caulobacter phage CcrBL10
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	2301573	Streptomyces phage Hank144
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	2301601	Corynebacterium phage SamW
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	2517967	Mycobacterium phage Refuge
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	2517971	Mycobacterium phage Typha
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	2545435	Synechococcus phage S-B28
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	2560256	Winklervirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	2562660	unclassified Cheoctovirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	2572526	Gordonia phage Fairfaxidum
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	2593351	Mycobacterium phage Purky
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	2593360	Streptomyces phage Yasdnil
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	2599880	Mycobacterium phage ThulaThula
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	2686250	Flavobacterium phage vB_FspS_laban6-1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	2704413	Lymphocystis disease virus 4
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	2725628	Streptomyces phage Issmi
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	2725629	Streptomyces phage Bmoc
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	2729541	Alteromonas phage vB_AcoS-R7M
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	2729575	Cronobacter phage JC01
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	2731207	Fairfaxidumvirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	2732613	Langleyhallvirinae
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	2732977	Citexvirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	2733102	Derbicusvirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	2733109	Leucotheavirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	2733117	Neptunevirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	2733128	Saclayvirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	2733152	Bertelyvirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	2733171	Coralvirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	2733220	Vojvodinavirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	2759730	Ralstonia phage Heva
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	2762280	Gordonia phage Rabbitrun
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	2767584	Streptomyces phage Sentinel
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	2772063	crAssphage cr118_1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	2794947	Gordonia phage Lilbeanie
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	2801898	Streptomyces phage Werner
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	2842527	Hendrixvirinae
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	2842639	Deltatectivirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	2842796	Kenoshavirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	2843381	Firingavirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	2843386	Gilsonvirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	2843400	Karimacvirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	2843401	Klausavirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	2843477	Yongloolinvirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	2843478	Yonseivirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	2902842	Mycobacterium phage Babsiella
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	2913982	Vibrio phage VP882
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.026578	2	2914006	Thermus phage P23-45
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	10271	Rabbit fibroma virus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	10320	Bovine alphaherpesvirus 1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	10379	Rhadinovirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	10494	Lymphocystivirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	10663	Tequatrovirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	10717	Bacillus phage phi105
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	11632	Retroviridae
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	11636	Reticuloendotheliosis virus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	11788	Abelson murine leukemia virus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	12336	Clostridium phage c-st
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	12348	Lactobacillus phage LL-H
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	12402	Streptococcus phage EJ-1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	28874	Volepox virus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	35241	Lactococcus phage Tuc2009
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	37296	Human gammaherpesvirus 8
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	39420	Feldmannia species virus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	75590	Mycoplasma phage MAV1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	79700	rat cytomegalovirus strain Maastricht
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	111874	Neodiprion sertifer nucleopolyhedrovirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	128975	Salmonella phage Fels-1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	129862	Phage Gifsy-2
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	137443	Macropodid alphaherpesvirus 1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	153137	Epsilonretrovirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	166921	Lymantria xylina nucleopolyhedrovirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	175950	Salmonella phage ST64B
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	179237	Sinorhizobium phage PBC5
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	186794	Lederbergvirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	187218	Tequintavirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	190063	Fowl aviadenovirus C
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	196895	unclassified Podoviridae
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	240426	Squirrelpox virus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	242861	Burkholderia phage BcepNazgul
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	247080	Ralstonia phage p12J
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	255431	Klebsiella phage phiKO2
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	262175	Plodia interpunctella granulovirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	279281	Lactobacillus phage phiAT3
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	307461	Apocheima cinerarium nucleopolyhedrovirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	317878	Cyprinid herpesvirus 2
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	327045	Orthoretrovirinae
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	340435	Microcystis virus Ma-LMM01
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	347324	Pseudomonas phage F10
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	354090	UR2 sarcoma virus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	382262	Prochlorococcus phage P-GSP1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	406340	Ralstonia virus RSA1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	413066	Streptococcus phage SMP
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	445696	Prochlorococcus phage P-HM2
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	459770	Diplodia scrobiculata RNA virus 1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	547228	Bacillus phage PM1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	548914	Elephant endotheliotropic herpesvirus 4
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	557289	Burkholderia phage KS10
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	562742	Roseobacter phage RDJL Phi 1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	573591	Stenotrophomonas phage S1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	631719	Vibrio phage VP585
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	669875	Escherichia phage vB_EcoM_ECO1230-10
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	686439	Clavibacter phage CMP1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	691965	Rhodococcus phage ReqiPepy6
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	694060	Staphylococcus phage SA1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	698728	Escherichia phage IME08
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	714583	Salmonella phage ST160
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	753085	Synechococcus phage S-CBS3
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	754038	Synechococcus phage S-CAM8
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	754039	Synechococcus phage S-IOM18
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	754064	Ostreococcus lucimarinus virus OlV5
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	756282	Cellulophaga phage phiST
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	906669	Escherichia phage HK639
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	929832	Cyanophage P-RSM6
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	929833	Rhizobium phage RR1-A
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	930275	Cotia virus SPAn232
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	936152	Riemerella phage RAP44
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	984175	Cronobacter phage ENT39118
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1029988	Erwinia phage phiEaH2
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1046267	Operophtera brumata nucleopolyhedrovirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1051675	Erwinia phage vB_EamP-S6
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1054968	Salmonella phage 7-11
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1089121	Mycobacterium phage Dori
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1090134	Salmonella phage SPN3US
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1100043	Apis mellifera filamentous virus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1113547	Salmonella phage 9NA
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1115478	Salmonella phage SE2
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1125653	Salmonella phage SPN1S
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1126885	Thermoanaerobacterium phage THSA-485A
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1131316	Rhodobacter phage RcapNL
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1133560	unclassified Bixzunavirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1137745	Cyanophage S-TIM5
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1147042	Staphylococcus phage StB12
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1147094	Klebsiella phage vB_KleM_RaK2
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1147158	Enterobacterial phage mEp390
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1161927	Pseudomonas phage Lu11
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1161935	Salinivibrio phage CW02
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1173297	Halocynthia phage JM-2012
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1176422	Croceibacter phage P2559S
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1177632	Salmonella phage SSU5
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1204525	Streptomyces phage SV1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1204533	Bacillus phage phiAGATE
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1221835	Acinetobacter phage YMC/09/02/B1251
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1235655	Propionibacterium phage PHL113M01
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1239386	Streptomyces phage phiCAM
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1239565	Mamastrovirus 1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1241371	Abalone herpesvirus Victoria/AUS/2009
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1264700	Edwardsiella phage MSW-3
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1273711	Synechococcus phage S-CBP1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1273749	Halovirus HGTV-1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1293540	Adoxophyes honmai entomopoxvirus 'L'
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1305708	Clostridium phage vB_CpeS-CP51
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1308863	Bacillus phage vB_BanS-Tsamsa
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1327758	Streptomyces phage Lika
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1327759	Streptomyces phage Sujidade
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1327777	Mycobacterium phage SiSi
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1327948	Mycobacterium phage Chy5
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1340826	Mycobacterium phage Whirlwind
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1352230	Thermus phage phi OH2
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1357669	Mycobacterium phage DrDrey
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1367203	Hemileuca sp. nucleopolyhedrovirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1391456	Phormidium phage MIS-PhV1B
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1414747	Mycobacterium phage Validus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1445860	Salmonella phage STP4-a
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1458842	Geobacillus phage GBK2
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1471542	Mycobacterium phage MosMoris
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1486473	Mycobacterium phage OkiRoe
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1500713	Vibrio phage X29
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1500757	Pseudomonas phage phiPSA1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1500801	Propionibacterium phage PHL041M10
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1527513	Mycobacterium phage Minerva
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1538804	Vibrio phage VpKK5
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1540098	Escherichia phage Seurat
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1552735	Lactobacillus phage Ldl1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1563660	Sucra jujuba nucleopolyhedrovirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1566993	Arthrobacter phage vB_ArtM-ArV1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1572745	Mannheimia phage vB_MhS_587AP2
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1586714	Yellowstone lake phycodnavirus 2
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1589748	Achromobacter phage JWF
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1592335	Pseudoplusia includens SNPV IE
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1610509	Achromobacter phage phiAxp-1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1623283	Chivirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1623286	Casadabanvirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1623301	Reyvirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1628721	Acinetobacter phage YMC11/11/R3177
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1636183	Streptomyces phage YDN12
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1647285	Gordonia phage GMA6
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1647302	Mycobacterium phage Phayonce
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1647476	Tsukamurella phage TPA4
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1664246	Achromobacter phage phiAxp-2
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1673877	Streptomyces phage Amela
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1718273	Pseudomonas phage PAE1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1720323	Lessievirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1720324	Hollowayvirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1732064	Staphylococcus phage StB20-like
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1772291	Arthrobacter phage Amigo
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1805457	Mycobacterium phage Bipper
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1805459	Mycobacterium phage Mulciber
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1813599	Brazilian marseillevirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1813771	Salmonella phage 118970_sal3
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1821552	Gordonia phage Emalyn
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1821557	Gordonia phage Lucky10
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1822365	Bovine retrovirus CH15
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1838061	Gordonia phage Bachita
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1857845	Okubovirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1859492	Kaumoebavirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1864623	Enterobacter phage Tyrion
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1883370	Erwinia phage vB_EamM_Asesino
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1883371	Erwinia phage vB_EamM_ChrisDB
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1883379	Erwinia phage vB_EamM_Caitlin
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1887647	Gordonia phage Ghobes
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1887650	Gordonia phage Jumbo
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1897525	Streptomyces phage Rima
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1897548	Mycobacterium phage Stasia
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1913034	Streptomyces phage Joe
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1913112	Aeribacillus phage AP45
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1913651	Krischvirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1914850	Certrevirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1914851	Seunavirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1917990	Bequatrovirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1920311	Streptomyces phage Picard
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1931407	Providencia phage vB_PreS_PR1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1962671	Serratia phage BF
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1965478	Lactococcus phage LW31
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1965482	Lactococcus phage LW81
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1969841	Proteus phage VB_PmiS-Isfahan
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1975614	Rhodococcus phage Toil
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1978007	crAss-like viruses
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1978922	Aeromonas phage phiA8-29
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1980937	Emdodecavirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1982152	Gordonvirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1982239	Nipunavirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1982569	Tinduovirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1982573	Titanvirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1982877	Mclasvirinae
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1982897	Acadianvirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1982898	Coopervirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1983577	Mycobacterium phage PurpleHaze
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	1984798	Perisivirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2015824	Mycobacterium phage SirPhilip
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2015834	Arthrobacter phage Colucci
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2026080	Erwinia phage vB_EamM_RisingSun
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2041205	Streptomyces phage Amethyst
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2041211	Klebsiella phage vB_KpnS_IME279
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2041354	Streptomyces phage Scap1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2047830	Gordonia phage BENtherdunthat
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2047869	Corynebacterium phage Darwin
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2047872	Gordonia phage Gustav
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2053653	Synechococcus phage S-CBWM1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2054179	Rhinolophus gammaherpesvirus 1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2056878	Cacao Bacilliform SriLanka Virus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2059380	Flamingopox virus FGPVKD09
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2059880	Streptomyces phage AbbeyMikolon
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2059881	Streptomyces phage Attoomi
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2059883	Streptomyces phage Rowa
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2065199	Microbacterium phage Dismas
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2070190	Paenibacillus phage Dragolir
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2077134	Mycobacterium phage PP
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2079427	Streptomyces phage Bing
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2083181	Trichoplusia ni TED virus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2094144	Rhodococcus phage Finch
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2099444	Microbacterium phage Pikmin
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2099652	Pantoea phage vB_PagS_Vid5
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2108134	Streptomyces phage Paedore
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2115967	Burkholderia phage vB_BmuP_KL4
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2126810	Mycobacterium phage Misha28
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2169600	Nclasvirinae
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2169635	Baxtervirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2169652	Attisvirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2169658	Wizardvirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2178922	Mycobacterium phage Oogway
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2178923	Mycobacterium phage Xavia
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2182347	Gordonia phage Petra
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2182354	Microbacterium phage Hyperion
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2182357	Microbacterium phage Squash
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2182360	Gordonia phage Jace
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2182408	Streptomyces phage FlowerPower
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2201435	Microbacterium phage Krampus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2201444	Microbacterium phage Zeta1847
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2219120	Lepus americanus faeces associated genomovirus SHP7
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2234093	Escherichia phage C130_2
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2250320	Gordonia phage Frokostdame
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2250323	Gordonia phage Ruthy
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2250336	Streptomyces phage Blueeyedbeauty
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2282912	Sphingomonas phage Scott
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2283026	Erwinia phage vB_EhrS_49
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2283265	Streptomyces phage StarPlatinum
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2283270	Caulobacter phage CcrBL9
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2283271	Caulobacter phage CcrPW
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2283303	Streptomyces phage Karimac
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2301538	Gordonia phage Catfish
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2301546	Mycobacterium phage Adahisdi
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2301602	Gordonia phage Foxboro
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2301700	Mycobacterium phage KristaRAM
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2301704	Mycobacterium phage Collard
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2304198	Sulfolobus filamentous virus 1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2315531	Gordonia phage Getalong
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2315608	Arthrobacter phage KBurrousTX
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2315610	Gordonia phage Turuncu
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2315855	unclassified Vendettavirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2340712	Enterobacter phage phiT5282H
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2419946	Arthrobacter phage Andrew
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2419955	Arthrobacter phage DrManhattan
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2419971	Microbacterium phage Armstrong
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2483673	Gordonia phage Octobien14
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2500797	Streptomyces phage WheeHeim
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2507854	Gordonia phage Rickmore
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2507862	Gordonia phage Asapag
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2508206	Escherichia phage PTXU04
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2510464	Klebsiella phage ST13-OXA48phi12.1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2510495	Arthrobacter phage Sonali
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2510942	Lactobacillus phage 521B
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2517944	Mycobacterium phage Cornucopia
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2517966	Mycobacterium phage Piper2020
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2530140	Mycobacterium phage Pharaoh
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2547425	Tenacibaculum phage PTm1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2560153	Jasminevirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2560210	Priunavirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2560250	Vieuvirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2565657	Rheinheimera phage vB_RspM_Barba18A
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2588489	Gordonia phage Dardanus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2588501	Corynebacterium phage Dina
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2588507	Gordonia terrae phage McKinley
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2590929	Gordonia phage JuJu
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2591212	Gordonia phage Zipp
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2591223	Mycobacterium phage Phrappuccino
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2591403	Achromobacter phage Motura
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2599852	Gordonia phage Toast
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2652414	Gordonia phage OhMyWard
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2652422	Mycobacterium phage LilMcDreamy
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2652423	Mycobacterium phage Marshawn
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2656529	Gordonia phage Avazak
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2656540	Gordonia phage MelBins
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2656582	Mycobacterium phage Indlulamithi
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2662138	Bacteriophage Phobos
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2679904	Pseudomonas phage F116
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2686088	Mycobacterium phage Phaded
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2686231	Mycobacterium phage BirdsNest
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2686437	Vibrio phage vB_VchM_Kuja
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2704031	Alteromonas phage vB_AmeM_PT11-V22
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2704043	Mycobacterium phage Cornie
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2708631	Mycobacterium phage Eponine
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2723769	Agrobacterium phage OLIVR1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2725616	Gordonia phage Secretariat
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2731648	Krylovirinae
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2731942	Gyeongsanvirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2732037	Pogseptimavirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2732913	Cronosvirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2732969	Baoshanvirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2732980	Felsduovirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2733095	Barbavirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2733096	Bellamyvirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2733130	Salmondvirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2733153	Colossusvirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2733196	Montyvirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2733205	Ronaldovirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2738809	unclassified Derbicusvirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2742953	Escherichia phage Lambda_ev099
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2743909	Gordonia Phage Zitch
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2749430	Pseudomonas phage Persinger
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2762401	Gordonia phage Love
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2767570	Achromobacter phage Mano
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2767576	Streptomyces phage Salutena
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2767578	Burkholderia phage Mana
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2772072	crAssphage cr112_1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2775045	Mycobacterium phage phiT46-1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2781364	Burkholderia phage phiE094
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2842520	Beephvirinae
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2842946	Peeveelvirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2843463	Takahashivirus
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2849600	Rheinheimera phage Barba8S
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2852964	unclassified Azeredovirinae
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2881399	Burkholderia phage phi1026b
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2883949	Burkholderia phage BcepC6B
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2886926	Escherichia phage P1
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2902800	Mycobacterium phage Alma
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2908152	Staphylococcus phage X2
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2913976	Staphylococcus phage CNPH82
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2914013	Mycobacterium phage Pukovnik
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2922205	Mycobacterium phage Ibhubesi
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.013289	1	2922221	Rhodococcus phage RGL3
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	0.637874	48	NA	cannot be assigned to a (non-viral) family
+/kb/module/work/tmp/output_1721766252608/kaiju_output/22AB-1.kaiju	99.717093	2652328	NA	unclassified
