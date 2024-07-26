@@ -1,0 +1,994 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	3.502181	289	2884420	Bacillus phage G
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	3.308289	273	446529	Microbacterium phage Min1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	2.920504	241	857479	Peduovirinae
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	2.363064	195	2733104	Eurybiavirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	2.302472	190	693272	Cafeteria roenbergensis virus BV-PW1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	2.132816	176	90964	Staphylococcaceae
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	1.902569	157	549779	Mimiviridae
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	1.878332	155	10662	Myoviridae
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	1.745032	144	10699	Siphoviridae
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	1.684440	139	2041344	Mycobacterium phage Kumao
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	1.587494	131	251749	Phaeocystis globosa virus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	1.587494	131	2070181	Faecalibacterium phage FP_Brigit
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	1.502666	124	2027899	Mycobacterium phage Phabba
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	1.478430	122	1982880	Likavirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	1.405720	116	1917232	Only Syngen Nebraska virus 5
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	1.381483	114	1300	Streptococcaceae
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	1.248182	103	2590946	Streptomyces phage Celia
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	1.236064	102	2716351	Escherichia phage 500465-1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	1.211827	100	1623292	Omegavirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.908871	75	1913591	Streptomyces phage BRock
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.872516	72	880158	unclassified Prasinovirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.739215	61	28883	Caudovirales
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.739215	61	328615	Trichoplusia ni ascovirus 2c
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.727096	60	181083	Chlorovirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.714978	59	1982875	Arquatrovirinae
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.666505	55	1572712	Geobacillus virus E3
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.666505	55	2023057	Orpheovirus IHUMI-LCC2
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.654387	54	1643326	Bacillus phage phi4J1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.642269	53	1792032	Bacillus phage SP-15
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.642269	53	2024264	Agrobacterium phage Atu_ph07
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.618032	51	455364	Chrysochromulina ericina virus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.618032	51	1903266	Cedratvirus A11
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.618032	51	2801477	Flavobacterium phage vB_FspM_immuto_2-6A
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.605914	50	212035	Acanthamoeba polyphaga mimivirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.605914	50	1912143	Biquartavirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.605914	50	2733124	Phapecoctavirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.581677	48	322019	Acanthocystis turfacea chlorella virus 1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.569559	47	1150991	Sphingomonas phage PAU
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.545322	45	2079426	Streptomyces phage BillNye
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.484731	40	198110	Pseudomonas phage 201phi2-1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.484731	40	1474867	Aureococcus anophagefferens virus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.460494	38	754042	Synechococcus phage S-SKS1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.460494	38	2079134	Dishui lake phycodnavirus 1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.448376	37	994601	Planktothrix phage PaV-LD
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.436258	36	2060084	Pandoravirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.412021	34	1094892	Megavirus chiliensis
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.412021	34	1697349	Scale drop disease virus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.399903	33	181084	Prasinovirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.387785	32	755272	Micromonas pusilla virus 12T
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.387785	32	2283286	Gordonia phage Daredevil
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.387785	32	2508196	unclassified Vequintavirinae
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.375667	31	1269028	Acanthamoeba polyphaga moumouvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.375667	31	2584487	Vibrio phage VAP7
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.363548	30	196896	unclassified Myoviridae
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.351430	29	180504	Burkholderia virus phiE125
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.351430	29	2843384	Fukuivirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.339312	28	1675601	Caulobacter phage Seuss
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.339312	28	1897437	Rhodococcus phage Weasels2
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.339312	28	2842523	Bronfenbrennervirinae
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.327193	27	158683	Diadromus pulchellus ascovirus 4a
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.327193	27	1623284	Kostyavirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.327193	27	1821566	Gordonia phage Yvonnetastic
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.327193	27	2014434	Escherichia phage D6
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.327193	27	2716352	Escherichia phage 500465-2
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.327193	27	2847058	Escherichia phage 2H10
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.315075	26	181082	Emiliania huxleyi virus 86
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.315075	26	196894	unclassified Siphoviridae
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.315075	26	2843450	Sarumanvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.302957	25	2027888	Brevibacterium phage LuckyBarnes
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.302957	25	2562717	unclassified Timquatrovirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.290839	24	2907963	Aeromonas phage 44RR2.8t
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.278720	23	889956	Prochlorococcus phage MED4-213
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.278720	23	1590550	Escherichia phage RCS47
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.254484	21	268746	Prochlorococcus phage P-SSM2
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.254484	21	880159	Bathycoccus sp. RCC1105 virus BpV1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.242365	20	59241	Streptococcus phage Dp-1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.230247	19	321023	Aeromonas virus 31
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.230247	19	1493511	Synechococcus phage ACG-2014f
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.218129	18	381899	Paramecium bursaria Chlorella virus A1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.218129	18	384848	Corynebacterium phage P1201
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.218129	18	2107707	Pandoravirus macleodensis
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.206011	17	1449437	Pseudomonas phage vB_PaeP_Tr60_Ab31
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.206011	17	1777052	Pseudomonas phage JBD44
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.206011	17	2591411	Brevibacterium phage AGM1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.206011	17	2723773	Agrobacterium phage OLIVR5
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.193892	16	1586713	Yellowstone lake phycodnavirus 1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.193892	16	2044561	Stenotrophomonas phage vB_SmaS_DLP_5
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.193892	16	2499072	Streptomyces phage Hiyaa
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.193892	16	2704033	Gordonia phage Skog
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.181774	15	340435	Microcystis virus Ma-LMM01
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.181774	15	1327990	Cellulophaga phage phi14:2
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.181774	15	1503929	Aurantimonas phage AmM-1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.181774	15	1542477	Prochlorococcus phage P-TIM68
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.181774	15	1567486	Escherichia phage P88
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.181774	15	1674927	Streptomyces phage Lannister
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.181774	15	1815968	Salmonella phage SJ46
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.181774	15	1982086	Laroyevirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.181774	15	2099637	Mycobacterium phage Mendokysei
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.181774	15	2593638	Bacillus phage vB_BmeM-Goe8
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.181774	15	2843411	Lahexavirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.169656	14	186764	Fromanvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.169656	14	1325731	Flavobacterium phage 6H
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.169656	14	1883368	Synechococcus phage S-CAM7
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.169656	14	1980924	Ralstonia phage phiRSL1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.169656	14	2843466	Teubervirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.157538	13	151539	Lactococcus phage bIL312
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.157538	13	445700	Prochlorococcus phage P-HM1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.157538	13	1109712	Rhodococcus phage REQ1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.157538	13	1406793	Clavibacter phage CN1A
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.157538	13	1623306	Timquatrovirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.157538	13	1887641	Gordonia phage Bantam
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.157538	13	2560220	Samistivirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.145419	12	186789	Punavirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.145419	12	445688	Prochlorococcus phage P-SSM7
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.145419	12	1335230	Pseudomonas phage PaBG
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.145419	12	1530085	Ralstonia phage RSY1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.145419	12	1982879	Camvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.145419	12	2052899	Cladosporium fulvum T-1 virus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.145419	12	2283031	Dickeya phage vB_DsoM_JA29
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.133301	11	10239	Viruses
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.133301	11	198538	Streptococcus phage 315.1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.133301	11	445686	Synechococcus phage S-SSM7
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.133301	11	1195085	Cronobacter phage CR5
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.133301	11	1357715	Microcystis phage MaMV-DC
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.133301	11	1622193	Gordonia phage Gsput1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.133301	11	1675600	Caulobacter phage Sansa
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.133301	11	1682380	Roseobacter phage RDJL Phi 2
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.133301	11	2023996	Synechococcus phage Bellamy
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.133301	11	2029657	Bordetella phage vB_BbrM_PHB04
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.133301	11	2315608	Arthrobacter phage KBurrousTX
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.133301	11	2733170	Bridgettevirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.133301	11	2922990	Mycobacterium phage Larva
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.121183	10	37665	Ectocarpus siliculosus virus 1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.121183	10	128706	Haloviruses
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.121183	10	399781	Paramecium bursaria Chlorella virus FR483
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.121183	10	947843	Erwinia phage ENT90
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.121183	10	1340810	Synechococcus phage ACG-2014h
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.121183	10	1349410	Pandoravirus salinus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.121183	10	1486472	Mycobacterium phage Gaia
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.121183	10	1586714	Yellowstone lake phycodnavirus 2
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.121183	10	2027905	Rhodococcus phage Trina
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.121183	10	2419965	Arthrobacter phage Peas
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.121183	10	2488789	Streptomyces phage Gilson
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.121183	10	2562192	Gordonia phage GodonK
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.121183	10	2591131	Rhodococcus phage Sleepyhead
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.121183	10	2678601	Erwinia phage Hena1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.121183	10	2733140	Wellingtonvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.109064	9	10501	Phycodnaviridae
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.109064	9	348137	Burkholderia phage Bcep176
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.109064	9	382685	Lactococcus phage Q54
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.109064	9	504346	Pseudomonas phage PAJU2
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.109064	9	546805	Mycobacterium phage Myrna
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.109064	9	683735	Aggregatibacter phage S1249
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.109064	9	754044	Loktanella phage pCB2051-A
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.109064	9	910474	Burkholderia phage KL3
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.109064	9	1273746	Halovirus HCTV-1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.109064	9	1450746	Pithovirus sibericum
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.109064	9	1623281	Cheoctovirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.109064	9	1732063	Staphylococcus phage SPbeta-like
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.109064	9	1982101	Bernalvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.109064	9	2108115	Escherichia phage SH2026Stx1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.109064	9	2653725	Streptomyces phage Daubenski
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.109064	9	2656541	Gordonia phage Stormageddon
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.109064	9	2723769	Agrobacterium phage OLIVR1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.109064	9	2732612	Dolichocephalovirinae
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.109064	9	2772063	crAssphage cr118_1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.109064	9	2772078	crAssphage cr271_1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.096946	8	458639	Bacillus phage 0305phi8-36
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.096946	8	536466	Synechococcus phage S-SSM4
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.096946	8	929833	Rhizobium phage RR1-A
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.096946	8	1204524	Streptomyces phage phiHau3
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.096946	8	1401669	Erwinia phage PhiEaH1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.096946	8	1606763	Mycobacterium phage Kratio
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.096946	8	1647282	Paracoccus phage Shpa
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.096946	8	1698709	Mycobacterium phage Enkosi
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.096946	8	1883375	Erwinia phage Machina
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.096946	8	1965368	Dinoroseobacter phage vB_DshS-R5C
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.096946	8	1982557	Smoothievirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.096946	8	2107708	Pandoravirus neocaledonia
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.096946	8	2752534	unclassified Eurybiavirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.084828	7	10704	Rhizobium phage 16-3
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.084828	7	536444	Cyanophage P-RSM1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.084828	7	753085	Synechococcus phage S-CBS3
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.084828	7	1220717	Rhizobium phage RHEph10
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.084828	7	1226260	Stx2-converting phage Stx2a_WGPS2
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.084828	7	1357825	Enterobacteria phage fiAA91-ss
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.084828	7	1414742	Arthrobacter phage vB_ArS-ArV2
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.084828	7	1527493	Mycobacterium phage Sparky
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.084828	7	1527771	Mesorhizobium phage vB_MloP_Lo5R7ANS
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.084828	7	1772326	Arthrobacter phage Galaxy
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.084828	7	1826170	Tokyovirus A1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.084828	7	1873777	Streptomyces phage Nanodon
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.084828	7	1883369	Synechococcus phage S-CAM9
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.084828	7	1982088	Mudcatvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.084828	7	1982152	Gordonvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.084828	7	1982251	Pahexavirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.084828	7	2015851	Corynebacterium phage Poushou
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.084828	7	2041354	Streptomyces phage Scap1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.084828	7	2169658	Wizardvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.084828	7	2182350	Microbacterium phage Appa
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.084828	7	2560134	Galaxyvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.084828	7	2572526	Gordonia phage Fairfaxidum
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.084828	7	2599838	Arthrobacter phage TripleJ
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.084828	7	2733153	Colossusvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.084828	7	2772069	crAssphage cr108_1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.072710	6	66797	Bacillus virus SPbeta
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.072710	6	523909	Musca domestica salivary gland hypertrophy virus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.072710	6	573174	Vibrio phage henriette 12B8
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.072710	6	880161	Micromonas sp. RCC1109 virus MpV1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.072710	6	1168549	Salmonella phage vB_SosS_Oslo
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.072710	6	1175657	Pseudomonas phage PaMx11
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.072710	6	1177632	Salmonella phage SSU5
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.072710	6	1198136	Tevenvirinae
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.072710	6	1414737	Rhizobium phage vB_RleS_L338C
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.072710	6	1524882	Sinorhizobium phage phiLM21
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.072710	6	1623280	Charlievirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.072710	6	1647470	Gordonia phage GMA1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.072710	6	1718161	Paenibacillus phage Tripp
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.072710	6	1837876	Acinetobacter phage vB_AbaM_ME3
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.072710	6	1883365	Synechococcus phage S-CAM22
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.072710	6	1883366	Synechococcus phage S-CAM3
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.072710	6	1898060	Lymphocystis disease virus Sa
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.072710	6	1920750	Mapvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.072710	6	1980139	Sphingobium phage Lacusarx
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.072710	6	1982095	Abidjanvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.072710	6	2048977	Pseudomonas phage nickie
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.072710	6	2268578	Synechococcus phage S-T4
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.072710	6	2283013	Bacillus phage BSP38
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.072710	6	2301538	Gordonia phage Catfish
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.072710	6	2502409	Escherichia phage vB_EcoM_Goslar
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.072710	6	2591223	Mycobacterium phage Phrappuccino
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.072710	6	2599886	Mycobacterium phage Yunkel11
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.072710	6	2604899	Pseudomonas phage Zuri
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.072710	6	2725629	Streptomyces phage Bmoc
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.072710	6	2732523	Megaviricetes
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.072710	6	2732982	Kisquattuordecimvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.072710	6	2733155	Shapirovirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.072710	6	2902842	Mycobacterium phage Babsiella
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.060591	5	45764	Mycobacterium phage DS6A
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.060591	5	140410	Peduovirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.060591	5	186794	Lederbergvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.060591	5	196242	Enterobacteria phage BP-4795
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.060591	5	373996	Micromonas pusilla virus SP1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.060591	5	480808	Mycobacterium phage Giles
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.060591	5	482822	Escherichia phage DE3
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.060591	5	747763	Streptomyces phage phiSASD1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.060591	5	910473	Burkholderia phage KS5
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.060591	5	998086	Pseudomonas phage PhiPA3
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.060591	5	1074309	Mycobacterium phage BigNuz
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.060591	5	1109714	Rhodococcus phage REQ3
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.060591	5	1128424	Helicoverpa zea nudivirus 2
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.060591	5	1279082	Pseudomonas phage PPpW-3
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.060591	5	1349409	Pandoravirus dulcis
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.060591	5	1407493	Shigella phage SfIV
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.060591	5	1458842	Geobacillus phage GBK2
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.060591	5	1486424	Mycobacterium phage Bernal13
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.060591	5	1498228	Rhizobium phage vB_RleM_PPF1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.060591	5	1540090	Bacillus phage Mater
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.060591	5	1636618	Fletchervirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.060591	5	1647285	Gordonia phage GMA6
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.060591	5	1647468	Salmonella phage SEN8
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.060591	5	1887646	Gordonia phage Eyre
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.060591	5	1887656	Gordonia phage Zirinka
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.060591	5	1910931	Agatevirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.060591	5	1962671	Serratia phage BF
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.060591	5	1964565	Synechococcus virus S-ESS1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.060591	5	2026102	Klebsiella phage YMC16/01/N133_KPN_BP
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.060591	5	2094144	Rhodococcus phage Finch
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.060591	5	2169600	Nclasvirinae
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.060591	5	2182341	Microbacterium phage Hendrix
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.060591	5	2250335	Streptomyces phage Annadreamy
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.060591	5	2250336	Streptomyces phage Blueeyedbeauty
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.060591	5	2301697	Gordonia phage Schmidt
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.060591	5	2315544	Mycobacterium phage Paito
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.060591	5	2517973	Streptomyces phage EGole
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.060591	5	2530032	Burkholderia phage BcepSaruman
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.060591	5	2560111	Ceetrepovirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.060591	5	2560210	Priunavirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.060591	5	2593360	Streptomyces phage Yasdnil
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.060591	5	2601643	Erwinia phage pEp_SNUABM_01
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.060591	5	2733171	Coralvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.060591	5	2788176	unclassified Fairfaxidumvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.060591	5	2796514	Achromobacter phage vB_AchrS_AchV4
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.060591	5	2842727	Henunavirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.060591	5	2843422	Moabitevirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.048473	4	10371	Equid gammaherpesvirus 5
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.048473	4	10682	Enterobacteria phage P7
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.048473	4	10724	Bacillus phage SPP1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.048473	4	67082	BeAn 58058 virus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.048473	4	129861	Phage Gifsy-1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.048473	4	273133	Pseudomonas phage EL
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.048473	4	335795	unclassified Lambdavirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.048473	4	335797	Burkholderia phage KS9
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.048473	4	444860	Synechococcus phage S-SM2
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.048473	4	558016	Alphabaculovirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.048473	4	564886	Enterobacteria phage YYZ-2008
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.048473	4	691963	Rhodococcus phage ReqiPine5
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.048473	4	691966	Rhodococcus phage ReqiDocB7
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.048473	4	936054	Enterobacteria phage VT2phi_272
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.048473	4	944644	Marseilleviridae
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.048473	4	1283076	Pelagibacter phage HTVC008M
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.048473	4	1340534	Salmonella phage Jersey
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.048473	4	1527770	Rhizobium phage vB_RleM_P10VF
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.048473	4	1623278	Bronvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.048473	4	1636182	Sinorhizobium phage phiM9
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.048473	4	1689679	Ralstonia phage RSF1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.048473	4	1718278	Brucella phage BiPBO1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.048473	4	1815630	Pseudomonas phage pf16
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.048473	4	1857844	Pecentumvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.048473	4	1868844	Staphylococcus phage vB_SscM-1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.048473	4	1883379	Erwinia phage vB_EamM_Caitlin
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.048473	4	1921525	Kleczkowskavirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.048473	4	1927020	Mycobacterium phage MrMagoo
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.048473	4	1965478	Lactococcus phage LW31
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.048473	4	1980937	Emdodecavirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.048473	4	2006684	Pseudomonas phage Noxifer
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.048473	4	2026080	Erwinia phage vB_EamM_RisingSun
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.048473	4	2049885	Vendettavirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.048473	4	2052742	Yersinia phage fHe-Yen9-04
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.048473	4	2070180	Enterobacter phage Ec_L1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.048473	4	2079427	Streptomyces phage Bing
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.048473	4	2178923	Mycobacterium phage Xavia
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.048473	4	2201444	Microbacterium phage Zeta1847
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.048473	4	2220065	unclassified Arequatrovirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.048473	4	2283029	Dickeya phage vB_DsoM_AD1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.048473	4	2301714	Streptomyces phage Comrade
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.048473	4	2448270	unclassified Wizardvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.048473	4	2517971	Mycobacterium phage Typha
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.048473	4	2557554	Serratia phage Parlo
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.048473	4	2587814	Serratia phage Moabite
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.048473	4	2588502	Corynebacterium phage Lederberg
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.048473	4	2591403	Achromobacter phage Motura
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.048473	4	2656526	Arthrobacter phage Mufasa8
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.048473	4	2686437	Vibrio phage vB_VchM_Kuja
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.048473	4	2732613	Langleyhallvirinae
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.048473	4	2733208	Samwavirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.048473	4	2749430	Pseudomonas phage Persinger
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.048473	4	2762283	Mycobacterium phage Reindeer
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.048473	4	2763102	Enterococcus phage 9183
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.048473	4	2842528	Queuovirinae
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.048473	4	2843381	Firingavirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.048473	4	2843440	Privateervirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.048473	4	2843444	Ravarandavirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.048473	4	2885909	Bordetella phage BPP-1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	10506	Paramecium bursaria Chlorella virus 1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	10680	Enterobacteria phage P4
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	12336	Clostridium phage c-st
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	39640	Cotesia congregata bracovirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	75590	Mycoplasma phage MAV1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	103807	Enterobacteria phage phiP27
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	150286	Anguillid herpesvirus 1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	294631	Flavobacterium phage 11b
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	673839	Enterococcus phage phiFL4A
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	680114	Bixzunavirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	754037	Synechococcus phage S-CAM1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	754070	Tetraselmis viridis virus S20
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	755164	Lactobacillus phage LBR48
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	889876	Acinetobacter phage AB1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	936152	Riemerella phage RAP44
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	999883	Lausannevirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	1026955	Synechococcus phage S-CRM01
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	1089121	Mycobacterium phage Dori
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	1090134	Salmonella phage SPN3US
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	1131315	Erwinia phage PEp14
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	1133022	Burkholderia phage vB_BceS_AH2
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	1141136	Cronobacter phage vB_CsaM_GAP32
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	1147158	Enterobacterial phage mEp390
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	1162290	Cronobacter phage CR9
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	1188795	Xanthomonas citri phage CP2
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	1198137	Schizotequatrovirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	1299429	Yuavirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	1391456	Phormidium phage MIS-PhV1B
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	1406780	Acinetobacter phage Presley
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	1486473	Mycobacterium phage OkiRoe
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	1552735	Lactobacillus phage Ldl1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	1585840	Ralstonia phage RSL2
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	1636271	Verrucomicrobia phage P8625
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	1690425	Streptomyces phage Caliburn
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	1690818	Streptomyces phage SF3
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	1754217	Pseudomonas phage phi3
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	1775140	Bacillus phage vB_BhaS-171
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	1838064	Gordonia phage BritBrat
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	1838074	Gordonia phage OneUp
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	1838075	Gordonia phage Orchid
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	1838084	Gordonia phage Woes
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	1883377	Erwinia phage vB_EamM_Phobos
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	1887650	Gordonia phage Jumbo
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	1911928	Vequintavirinae
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	1923889	Ralstonia phage RP12
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	1982076	Korravirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	1982367	Pepyhexavirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	1982881	Arequatrovirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	2010329	Acidovorax phage ACP17
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	2015817	Mycobacterium phage Amgine
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	2024284	Streptomyces phage DrGrey
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	2108134	Streptomyces phage Paedore
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	2169652	Attisvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	2169655	Pulverervirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	2201421	Streptomyces phage Yosif
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	2233782	unclassified Omegavirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	2250319	Gordonia phage Apricot
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	2250323	Gordonia phage Ruthy
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	2301621	Streptomyces phage Yaboi
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	2419946	Arthrobacter phage Andrew
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	2419970	Arthrobacter phage Yang
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	2483611	Pseudomonas phage Dobby
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	2483673	Gordonia phage Octobien14
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	2488571	Lactococcus phage phiQ1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	2488780	Arthrobacter phage Liebe
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	2508206	Escherichia phage PTXU04
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	2510452	Staphylococcus phage vB_SpsS_QT1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	2560127	Emalynvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	2588489	Gordonia phage Dardanus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	2588503	Corynebacterium phage Stickynote
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	2599885	Mycobacterium phage Yuna
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	2686231	Mycobacterium phage BirdsNest
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	2696340	Enterobacter phage vB_EclM_CIP9
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	2732007	Nucleocytoviricota
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	2733085	Xuanwuvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	2733152	Bertelyvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	2733195	Metamorphoovirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	2733196	Montyvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	2733200	Oneupvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	2762280	Gordonia phage Rabbitrun
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	2767576	Streptomyces phage Salutena
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	2801898	Streptomyces phage Werner
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	2843347	Annadreamyvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.036355	3	2843401	Klausavirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	10241	Chordopoxvirinae
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	10265	Capripoxvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	10449	Lymantria dispar multiple nucleopolyhedrovirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	10494	Lymphocystivirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	10702	Streptomyces phage VWB
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	10744	Podoviridae
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	35345	Lactococcus phage TP901-1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	42683	Paramecium bursaria Chlorella virus CVA-1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	97195	Heterosigma akashiwo virus 01
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	109981	Diachasmimorpha longicaudata entomopoxvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	114416	Lactococcus phage ul36
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	115992	Vibrio phage nt-1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	129862	Phage Gifsy-2
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	179237	Sinorhizobium phage PBC5
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	180170	Infectious spleen and kidney necrosis virus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	279303	Actinoplanes phage phiAsp2
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	279383	Alphaproteobacteria virus phiJl001
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	315393	Mimivirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	370623	Streptomyces phage mu1/6
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	373415	Mycobacterium phage Wildcat
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	445683	Synechococcus phage S-ShM2
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	445693	Cyanophage NATL1A-7
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	445696	Prochlorococcus phage P-HM2
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	467481	Azospirillum phage Cd
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	490711	Orgyia leucostigma nucleopolyhedrovirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	663241	Enterococcus phage phiEf11
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	691964	Rhodococcus phage ReqiPoco6
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	691965	Rhodococcus phage ReqiPepy6
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	754039	Synechococcus phage S-IOM18
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	754067	Salicola phage CGphi29
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	879630	Aeromonas phage phiAS5
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	929834	Rhizobium phage RR1-B
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	948071	Puniceispirillum phage HMO-2011
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	984175	Cronobacter phage ENT39118
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	1109711	Nocardia phage NBR1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	1109713	Rhodococcus phage REQ2
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	1129145	Pseudomonas phage phi297
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	1147043	Staphylococcus phage StB20
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	1161927	Pseudomonas phage Lu11
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	1195070	Mycobacterium virus MacnCheese
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	1204525	Streptomyces phage SV1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	1204537	Caulobacter virus phiCbK
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	1221835	Acinetobacter phage YMC/09/02/B1251
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	1239565	Mamastrovirus 1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	1273749	Halovirus HGTV-1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	1282995	Serratia phage Eta
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	1285382	Bacillus phage SIOphi
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	1327758	Streptomyces phage Lika
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	1357714	Caulobacter phage Cr30
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	1403390	Staphylococcus phage phiRS7
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	1411095	Clostridium phage CDMH1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	1471542	Mycobacterium phage MosMoris
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	1538804	Vibrio phage VpKK5
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	1540091	Bacillus phage Moonbeam
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	1540092	Bacillus phage Pascal
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	1540098	Escherichia phage Seurat
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	1586715	Yellowstone lake phycodnavirus 3
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	1636270	Rhodoferax phage P26218
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	1647302	Mycobacterium phage Phayonce
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	1647469	Gordonia phage GAL1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	1647471	Gordonia phage GMA4
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	1663209	Ostreococcus lucimarinus virus 7
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	1720526	Golden Marseillevirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	1755689	Pseudomonas phage YMC11/02/R656
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	1772298	Arthrobacter phage Gordon
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	1772319	Arthrobacter phage Tank
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	1776293	Bacillus phage Eldridge
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	1785960	Ralstonia phage RSP15
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	1796992	Bacillus phage Shbh1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	1813599	Brazilian marseillevirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	1814960	Streptococcus virus 9874
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	1815521	Synechococcus phage S-WAM1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	1821557	Gordonia phage Lucky10
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	1838066	Gordonia phage Cozz
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	1838138	Propionibacterium phage PFR2
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	1859492	Kaumoebavirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	1864622	Enterobacter phage Arya
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	1864623	Enterobacter phage Tyrion
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	1883373	Erwinia phage vB_EamM_Huxley
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	1910937	Bacillus virus Bp8pC
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	1914850	Certrevirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	1914852	Vequintavirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	1915205	Obolenskvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	1918721	Siminovitchvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	1920311	Streptomyces phage Picard
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	1931407	Providencia phage vB_PreS_PR1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	1933063	Bacillus phage vB_BsuM-Goe3
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	1955558	Noumeavirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	1975614	Rhodococcus phage Toil
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	1980922	Chiangmaivirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	1981159	Oslovirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	1982106	Demosthenesvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	1982239	Nipunavirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	1982562	Soupsvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	1983734	Fishburnevirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	1984798	Perisivirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	1985181	Tsarbombavirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2005509	Centapoxvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2015873	Arthrobacter phage Wheelbite
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2059883	Streptomyces phage Rowa
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2108127	Mycobacterium phage MooMoo
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2163633	Erwinia phage Cronus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2169636	Nymphadoravirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2169653	Doucettevirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2169657	Trigintaduovirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2220062	unclassified Likavirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2233778	unclassified Camvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2282904	Ralstonia phage GP4
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2283026	Erwinia phage vB_EhrS_49
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2301573	Streptomyces phage Hank144
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2301696	Gordonia phage Horus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2315616	Mycobacterium phage Saguaro
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2315855	unclassified Vendettavirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2382310	Dickeya phage vB_DsoM_JA11
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2493123	Sulfolobales Beppu filamentous virus 2
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2499009	Arthrobacter phage Maja
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2500795	Streptomyces phage Austintatious
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2510480	Klebsiella phage ST147-VIM1phi7.1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2510495	Arthrobacter phage Sonali
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2510943	Lactobacillus phage 3-521
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2517936	Mycobacterium Phage Niklas
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2517948	Mycobacterium phage Dulcie
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2530116	Gordonia phage BrutonGaster
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2560070	Bastillevirinae
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2560086	Alcyoneusvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2560094	Asteriusvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2560139	Getseptimavirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2560156	Jesfedecavirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2560176	Mimasvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2560214	Rimavirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2560244	Tulanevirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2562660	unclassified Cheoctovirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2562661	unclassified Fromanvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2571249	Gordonia phage Pupper
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2588499	Corynebacterium phage Adelaide
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2591132	Rhodococcus phage Whack
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2591205	Gordonia phage Bakery
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2593333	Arthrobacter phage Vibaki
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2599764	Sinorhizobium phage ort11
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2599880	Mycobacterium phage ThulaThula
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2652422	Mycobacterium phage LilMcDreamy
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2653270	Arthrobacter phage Kuleana
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2656529	Gordonia phage Avazak
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2656582	Mycobacterium phage Indlulamithi
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2660688	Pseudomonas phage vB_Pae-SS2019XI
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2664196	Bacteriophage DSS3_VP1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2681630	Escherichia phage 186
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2686250	Flavobacterium phage vB_FspS_laban6-1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2686278	Flavobacterium phage vB_FspS_tant8-1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2704043	Mycobacterium phage Cornie
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2704413	Lymphocystis disease virus 4
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2713256	Arthrobacter phage Abba
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2725616	Gordonia phage Secretariat
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2731966	Pelagivirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2732980	Felsduovirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2733088	Alexandravirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2733107	Kanaloavirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2733109	Leucotheavirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2733128	Saclayvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2733139	Vellamovirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2733175	Fibralongavirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2733205	Ronaldovirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2740182	Streptomyces phage Endor2
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2744004	Gordonia phage TZGordon
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2759393	Gordonia phage Clown
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2759732	Ralstonia phage Dina
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2767578	Burkholderia phage Mana
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2772511	Pectinobacterium phage vB_PcaM_CBB
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2775045	Mycobacterium phage phiT46-1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2797324	Gordonia phage TinaLin
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2812854	Salmonella phage vB_SalP_TR2
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2842796	Kenoshavirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2842946	Peeveelvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2844221	Escherichia virus P2-4C9
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2881399	Burkholderia phage phi1026b
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2881400	Burkholderia phage phi644-2
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2886926	Escherichia phage P1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.024237	2	2919549	Aeromonas phage 65
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	10242	Orthopoxvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	10260	Avipoxvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	10261	Fowlpox virus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	10264	Pigeonpox virus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	10335	Human alphaherpesvirus 3
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	10442	Baculoviridae
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	10652	Badnavirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	10663	Tequatrovirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	10678	Escherichia virus P1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	10719	Streptomyces virus phiC31
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	11757	Mouse mammary tumor virus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	11768	Feline leukemia virus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	11807	Harvey murine sarcoma virus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	11885	Fujinami sarcoma virus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	12402	Streptococcus phage EJ-1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	12417	Lactobacillus phage phiadh
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	28871	Taterapox virus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	28874	Volepox virus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	35246	Cercopithecine alphaherpesvirus 9
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	37108	Meleagrid alphaherpesvirus 1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	44088	Canarypox virus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	52979	Lactobacillus phage phig1e
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	53988	Microplitis demolitor bracovirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	59376	Ectropis obliqua nucleopolyhedrovirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	64461	Walleye epidermal hyperplasia virus 2
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	66284	Shigella phage SfII
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	72201	Armadillidium vulgare iridescent virus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	84739	European catfish virus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	88870	Mycobacterium phage TM4
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	128975	Salmonella phage Fels-1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	137511	Leptospira phage LE1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	146015	Elephantid betaherpesvirus 1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	153135	Gammaretrovirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	176652	Invertebrate iridescent virus 6
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	181085	Phaeovirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	186765	Lambdavirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	189836	Propionibacterium phage B5
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	198539	Streptococcus phage 315.2
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	262968	Singapore grouper iridovirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	307461	Apocheima cinerarium nucleopolyhedrovirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	317878	Cyprinid herpesvirus 2
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	318595	Enterobacteria phage PR4
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	331278	Yersinia phage phiR1-37
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	331627	Xanthomonas phage OP2
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	347324	Pseudomonas phage F10
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	354260	Lactococcus phage P335 sensu lato
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	374422	Streptomyces virus TG1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	382359	Synechococcus phage syn9
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	406340	Ralstonia virus RSA1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	445684	Synechococcus phage Syn19
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	459770	Diplodia scrobiculata RNA virus 1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	490111	Itacaiunas virus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	491893	Abalone shriveling syndrome-associated virus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	538979	Xanthomonas phage phiL7
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	542960	Uetakevirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	548914	Elephant endotheliotropic herpesvirus 4
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	549205	Cycad leaf necrosis virus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	557289	Burkholderia phage KS10
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	558017	Betabaculovirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	563769	Stx2-converting phage 1717
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	590739	Salmonella phage g341c
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	665032	Delftia phage PhiW-14
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	670252	Xylella phage Xfas53
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	673835	Enterococcus phage phiFL2A
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	696472	Ostreococcus tauri virus 2
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	698728	Escherichia phage IME08
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	700512	Vibrio phage SIO-2
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	700939	Escherichia phage vB_EcoM_VR7
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	749413	Deep-sea thermophilic phage D6E
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	754075	Vibrio phage 11895-B1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	756282	Cellulophaga phage phiST
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	869662	Synechococcus phage S-RIM2 R1_1999
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	877240	Pseudoalteromonas phage H105/1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	889953	Cyanophage KBS-S-2A
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	908819	Flavobacterium phage FCL-2
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	909297	Synechococcus phage S-CBS1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	910475	Burkholderia phage KS14
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	926474	Roseovarius Plymouth podovirus 1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	981323	Gordonia phage GTE2
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	984186	Cronobacter phage ENT47670
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1007869	Rhodococcus phage E3
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1033977	Flavobacterium phage FCV-1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1051675	Erwinia phage vB_EamP-S6
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1054968	Salmonella phage 7-11
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1069378	Helicobacter phage phiHP33
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1070990	Mycobacterium phage Lilac
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1074308	Mycobacterium phage Patience
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1079999	Synechococcus phage metaG-MbCM1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1105171	Bacteroides phage B124-14
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1126885	Thermoanaerobacterium phage THSA-485A
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1127516	Pectobacterium phage ZF40
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1129146	Pseudomonas virus PMG1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1131316	Rhodobacter phage RcapNL
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1133560	unclassified Bixzunavirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1136534	Bacillus phage BCD7
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1137745	Cyanophage S-TIM5
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1147150	Enterobacteria phage mEp235
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1168280	Cronobacter phage phiES15
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1168563	Stenotrophomonas phage Smp131
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1175663	Pseudomonas phage PaMx74
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1176423	Marinomonas phage P12026
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1187128	Acinetobacter phage AP22
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1197951	Celeribacter phage P12053L
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1198139	Bcepmuvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1220601	Rhizobium phage RHEph01
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1229755	Vibrio phage vB_VpaS_MAR10
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1235689	Pseudomonas phage AF
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1239381	Streptococcus phage phiNJ2
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1273707	Pseudomonas virus H66
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1278485	Cyanophage S-RIM44
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1283079	Pelagibacter phage HTVC019P
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1293539	Choristoneura rosaceana entomopoxvirus 'L'
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1308863	Bacillus phage vB_BanS-Tsamsa
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1308897	Staphylococcus phage StauST398-5
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1327759	Streptomyces phage Sujidade
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1327935	Cronobacter phage S13
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1327966	Pseudomonas phage PAK_P4
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1327993	Cellulophaga phage phi39:1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1343901	Fruit bat alphaherpesvirus 1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1391428	Escherichia phage 4MG
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1406785	Bacillus phage Grass
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1415148	Xylella phage Sano
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1429794	Pectobacterium bacteriophage PM2
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1445809	Bacillus phage vB_BtS_BMBtp3
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1446490	Escherichia phage FFH2
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1450142	Staphylococcus phage phiSA12
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1450169	Pseudomonas phage phi2
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1458831	Mycobacterium phage Jolie2
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1458863	Shewanella sp. phage 3/49
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1461743	Vibrio phage PVA1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1481186	Acinetobacter phage vB_AbaM_Acibel004
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1493508	Synechococcus phage ACG-2014b
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1498168	Enterococcus phage ECP3
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1500713	Vibrio phage X29
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1510155	Falconid herpesvirus 1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1513458	Marseillevirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1527512	Mycobacterium phage Squirty
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1529058	Vibrio phage ICP2_2013_A_Haiti
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1541819	Mycobacterium phage Omnicron
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1563660	Sucra jujuba nucleopolyhedrovirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1563661	Delftia phage RG-2014
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1567475	Mycobacterium phage Sbash
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1589733	Cyanophage P-TIM40
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1589748	Achromobacter phage JWF
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1592335	Pseudoplusia includens SNPV IE
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1597976	Enterococcus phage EFDG1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1604355	Escherichia phage ECBP2
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1604876	Escherichia phage N15
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1605721	Pandoravirus inopinatum
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1610872	Staphylococcus phage IME-SA4
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1623285	Corndogvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1623295	Pegunavirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1623300	Coetzeevirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1623301	Reyvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1623305	Skunavirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1636184	Streptomyces phage TP1604
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1642929	Lambdina fiscellaria nucleopolyhedrovirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1647284	Gordonia phage GMA3
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1647405	Sinorhizobium phage phiN3
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1647474	Gordonia phage GTE6
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1647476	Tsukamurella phage TPA4
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1660368	Escherichia phage PA28
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1673877	Streptomyces phage Amela
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1690427	Streptomyces phage Danzina
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1690456	Bacillus phage TsarBomba
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1691954	Brevibacillus phage Jenst
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1691958	Brevibacillus phage Sundance
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1720324	Hollowayvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1772294	Arthrobacter phage CaptnMurica
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1772295	Arthrobacter phage Circum
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1772302	Arthrobacter phage Jasmine
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1772328	Arthrobacter phage PrincessTrina
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1777064	Pseudomonas phage YMC11/07/P54_PAE_BP
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1792245	Bacillus phage Deep Blue
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1796993	Bacillus phage Mgbh1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1805953	Bacillus phage Phrodo
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1813769	Salmonella phage 64795_sal3
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1815511	Lactobacillus phage PLE2
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1815983	Dinoroseobacter phage DS-1410Ws-06
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1815984	Roseobacter phage RD-1410W1-01
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1821551	Gordonia phage BetterKatz
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1821563	Gordonia phage UmaThurman
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1838061	Gordonia phage Bachita
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1838063	Gordonia phage Bowser
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1838081	Gordonia phage Utz
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1852598	Ralstonia phage Rs551
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1857845	Okubovirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1868826	Bacillus phage vB_BtS_BMBtp14
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1873996	Streptomyces phage Lorelei
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1880590	Tenacibaculum phage pT24
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1883374	Erwinia phage vB_EamM_Kwan
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1887648	Gordonia phage Hedwig
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1891703	Mycobacterium phage Tonenili
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1897436	Salinivibrio phage SMHB1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1897537	Propionibacterium phage G4
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1911929	Caeruleovirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1913650	Karamvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1913651	Krischvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1913654	Gaprivervirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1914851	Seunavirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1917990	Bequatrovirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1918522	Lightbulbvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1918725	Jilinvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1920308	Streptomyces phage Ididsumtinwong
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1920865	Tlsvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1925779	Nankokuvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1932881	Pacmanvirus A23
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1938577	Vibrio phage pTD1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1960657	Klebsiella phage 3LV2017
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1965366	Escherichia phage phiEC1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1978007	crAss-like viruses
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1978922	Aeromonas phage phiA8-29
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1980936	Marthavirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1982218	Gordtnkvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1982236	Kelleziovirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1982247	Nonlabens virus P12024L
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1982372	Xiamenvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1982571	Tsukamurella virus TIN3
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1982576	Johnsonvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1982590	Kochitakasuvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1983447	Mycobacterium phage Shandong1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1983744	Bongovirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1984776	Agricanvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	1984788	Jimmervirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2005060	Rhodobacter virus RcCronus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2011075	Ralstonia virus RSS1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2014586	Erwinia phage EtG
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2015882	Mycobacterium phage Findley
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2024252	Serratia phage vB_SmaM_ 2050HW
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2041206	Streptomyces phage Daudau
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2041211	Klebsiella phage vB_KpnS_IME279
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2041382	Leptospira phage LE3
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2047872	Gordonia phage Gustav
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2048976	Pseudomonas phage inbricus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2053701	Aeromonas phage Ah1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2053723	Streptomyces phage WRightOn
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2054272	Klebsiella phage May
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2059380	Flamingopox virus FGPVKD09
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2059855	Pseudomonas phage PMBT14
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2059880	Streptomyces phage AbbeyMikolon
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2065199	Microbacterium phage Dismas
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2065203	Proteus phage phiP4-3
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2070183	Faecalibacterium phage FP_Lagaffe
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2070185	Faecalibacterium phage FP_Mushu
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2070188	Faecalibacterium phage FP_oengus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2079257	Ralstonia phage RsoM1USA
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2099652	Pantoea phage vB_PagS_Vid5
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2107709	Pandoravirus quercus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2115967	Burkholderia phage vB_BmuP_KL4
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2138298	Aeromonas phage AhSzq-1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2144176	Escherichia phage vB_EcoM-Ro121c4YLVW
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2169534	Limestonevirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2169633	Buttersvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2169634	Redivirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2171586	unclassified Korravirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2182347	Gordonia phage Petra
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2182349	Gordonia phage Sour
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2182354	Microbacterium phage Hyperion
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2201166	unclassified Bronvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2201420	Ralstonia phage phiRSP
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2201435	Microbacterium phage Krampus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2218612	Ruegeria phage vB_RpoP-V13
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2219120	Lepus americanus faeces associated genomovirus SHP7
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2234047	Klebsiella phage Mineola
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2234093	Escherichia phage C130_2
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2250289	Microbacterium phage Eden
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2250291	Mycobacterium phage Aminay
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2250320	Gordonia phage Frokostdame
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2267403	Vibrio phage YC
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2267653	Erwinia phage Wellington
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2282910	Mycobacterium phage Thonko
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2283261	Mycobacterium phage Thyatira
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2283271	Caulobacter phage CcrPW
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2283303	Streptomyces phage Karimac
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2301539	Microbacterium phage Neferthena
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2301704	Mycobacterium phage Collard
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2304198	Sulfolobus filamentous virus 1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2315197	unclassified Bongovirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2315527	Escherichia phage vB_vPM_PD06
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2315863	unclassified Bclasvirinae
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2419930	Serratia phage vB_SmaA_3M
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2419942	Edwardsiella phage Edno5
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2419950	Arthrobacter phage Constance
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2484249	Vibrio phage VspSw_1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2488859	Salmonella phage Lumpael
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2494563	Paracoccus phage vB_PmaS-R3
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2500799	Mycobacterium phage CicholasNage
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2507854	Gordonia phage Rickmore
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2507856	Mycobacterium phage KiSi
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2510483	Klebsiella phage ST16-OXA48phi5.4
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2510525	Streptomyces phage Janus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2510571	Streptomyces phage Lilbooboo
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2517965	Mycobacterium phage Pinnie
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2517966	Mycobacterium phage Piper2020
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2530132	Mycobacterium phage Kevin1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2530140	Mycobacterium phage Pharaoh
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2560131	Ficleduovirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2560133	Flaumdravirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2560149	Ikedavirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2560197	Otagovirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2560245	Unahavirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2560801	Testudinid alphaherpesvirus 3
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2565501	Bacillus phage vB_BtS_B83
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2575612	Mycobacterium phage Mercurio
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2588507	Gordonia terrae phage McKinley
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2589658	Escherichia phage Mangalitsa
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2592212	Salmonella phage SI7
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2599852	Gordonia phage Toast
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2599884	Mycobacterium phage Xula
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2601686	Gordonia phage Chikenjars
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2652414	Gordonia phage OhMyWard
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2656575	Mycobacterium phage Eish
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2681623	Mycobacterium phage Llij
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2686049	Escherichia virus Lambda_1H12
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2686088	Mycobacterium phage Phaded
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2686244	Flavobacterium phage vB_FspM_pippi8-1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2696379	Escherichia phage alia
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2713281	Salmonella phage bering
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2723758	Klebsiella phage LASTA
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2725628	Streptomyces phage Issmi
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2731207	Fairfaxidumvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2731643	Autographiviridae
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2731689	Chaseviridae
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2732038	Shenzhenvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2732046	Rogunavirinae
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2732968	Schiekvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2732972	Aresaunavirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2732989	Senquatrovirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2733096	Bellamyvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2733101	Cymopoleiavirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2733115	Naesvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2733169	Austintatiousvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2733207	Ruthyvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2733215	Squashvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2733216	Terapinvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2733220	Vojvodinavirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2738374	unclassified Phapecoctavirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2738809	unclassified Derbicusvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2740803	uncultured phage_MedDCM-OCT-S38-C3
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2741073	uncultured phage_MedDCM-OCT-S42-C7
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2742953	Escherichia phage Lambda_ev099
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2744011	Mycobacterium phage DroogsArmy
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2767584	Streptomyces phage Sentinel
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2767587	Streptomyces phage Sitrop
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2772059	crAssphage cr50_1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2772071	crAssphage cr111_1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2772077	crAssphage cr127_1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2780070	UAG-readthrough crAss clade
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2794947	Gordonia phage Lilbeanie
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2842416	Humphriesvirinae
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2842423	Rothmandenesvirinae
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2842524	Deejayvirinae
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2842527	Hendrixvirinae
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2842588	Ceceduovirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2842639	Deltatectivirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2842852	Manuelvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2842979	Pseudotevenvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2843069	Tanisvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2843346	Anjalivirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2843366	Cimandefvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2843383	Fremauxvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2843386	Gilsonvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2843400	Karimacvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2843412	Lambovirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2843414	Lastavirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2843416	Leicestervirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2843418	Lillamyvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2843419	Marfavirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2843431	Nylescharonvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2843436	Plateaulakevirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2843445	Rockefellervirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2843452	Sendosyvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2843455	Sherbrookevirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2843463	Takahashivirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2843477	Yongloolinvirus
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2844219	Escherichia virus P2-4A7b
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2881398	Burkholderia phage DC1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2883941	Burkholderia phage phiE202
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2883942	Burkholderia phage phiE255
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2886897	Burkholderia phage BcepF1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2905963	Salmonella phage ST64T
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2907835	Mycobacterium phage Omega
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2913972	Lactococcus phage KSY1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2914010	Halomonas phage phiHAP-1
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.012118	1	2914019	Mycobacterium phage Pacc40
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	0.230247	19	NA	cannot be assigned to a (non-viral) family
+/kb/module/work/tmp/output_1722019044409/kaiju_output/59AB-1.kaiju	99.594867	2028602	NA	unclassified
